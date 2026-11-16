@@ -31,3 +31,33 @@ Index một tài liệu thực tế từ **100 trang** có bảng, ảnh và bi�
 ![Các bước thử nghiệm trên dev và đánh giá trên test](assets/experiment-loop.svg)
 
 Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo](report/individual/MSSV_HoTen.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.
+
+## Hướng dẫn tái lập bài làm cá nhân
+
+- **Báo cáo cá nhân:** [2A202603880_DoanAnhHung.md](./report/individual/2A202603880_DoanAnhHung.md)
+- **Dữ liệu & vector store Day 6:** Khởi động container PostgreSQL `pgvector` từ Day 6 (`127.0.0.1:55433/day6_lab`), sao chép [.env.example](./.env.example) thành `.env` và điền `OPENROUTER_API_KEY` (embedding `baai/bge-m3`) cùng `CHAT_API_KEY` (`grok-4.3` qua `https://api.x.ai/v1`).
+- **Cài phụ thuộc & kiểm thử:**
+
+```bash
+uv sync
+uv run python -m src.export_day6
+uv run python -m unittest discover -s tests -v
+```
+
+- **Chạy benchmark retrieval và agent (`dev` / `test`):**
+
+```bash
+uv run python -m src.eval_retrieval --split dev
+uv run python -m src.eval_retrieval --split test
+uv run python -m src.eval_agent --config baseline_dense_b2400 --split dev
+uv run python -m src.eval_agent --config c1_hybrid_b2400 --split dev
+uv run python -m src.eval_agent --config c2_agentic_tools_b3500 --split dev
+uv run python -m src.eval_agent --config baseline_dense_b2400 --split test
+uv run python -m src.eval_agent --config c2_agentic_tools_b3500 --split test
+```
+
+- **Tổng hợp chỉ số agent sau khi đối chiếu nhãn `reviews.json`:**
+
+```bash
+python starter/agent_metrics.py --cases data/agent_cases.json --traces results/agent-c2_agentic_tools_b3500-test/traces.json --reviews results/agent-c2_agentic_tools_b3500-test/reviews.json --split test --output results/agent-c2_agentic_tools_b3500-test/summary.json
+```

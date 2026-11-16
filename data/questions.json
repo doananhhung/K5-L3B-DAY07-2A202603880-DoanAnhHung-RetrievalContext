@@ -1,0 +1,450 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Luật Trật tự, an toàn giao thông đường bộ quy định thế nào về việc điều khiển phương tiện mà trong máu hoặc hơi thở có nồng độ cồn?",
+    "expected_answer": "Bị nghiêm cấm điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 7,
+        "evidence": "2. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn."
+      }
+    ],
+    "requires_neighbor_heading": true
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô, quy định không được ngồi cùng hàng ghế với người lái xe có ngoại lệ nào không?",
+    "expected_answer": "Có ngoại lệ đối với loại xe ô tô chỉ có một hàng ghế; đồng thời người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 10,
+        "evidence": "3. Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ loại xe ô tô chỉ có một hàng ghế; người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em."
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Người tham gia giao thông đường bộ phải chấp hành các loại báo hiệu đường bộ theo thứ tự ưu tiên nào từ trên xuống dưới?",
+    "expected_answer": "Theo thứ tự từ trên xuống dưới: hiệu lệnh của người điều khiển giao thông; tín hiệu đèn giao thông; biển báo hiệu đường bộ; vạch kẻ đường và các dấu hiệu khác trên mặt đường; cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H; thiết bị âm thanh báo hiệu đường bộ.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 11,
+        "evidence": "2. Người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ theo thứ tự ưu tiên từ trên xuống dưới như sau:\n\na) Hiệu lệnh của người điều khiển giao thông;\n\nb) Tín hiệu đèn giao thông;\n\nc) Biển báo hiệu đường bộ;\n\nd) Vạch kẻ đường và các dấu hiệu khác trên mặt đường;\n\nđ) Cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H;\n\ne) Thiết bị âm thanh báo hiệu đường bộ."
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Khi dừng, đỗ xe trên đường phố, khoảng cách tối đa cho phép từ bánh xe gần nhất đến lề đường hoặc vỉa hè là bao nhiêu?",
+    "expected_answer": "Không được cách xa lề đường, vỉa hè quá 0,25 mét (sát theo lề đường, vỉa hè phía bên phải theo chiều đi).",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 18,
+        "evidence": "6. Trên đường phố, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe sát theo lề đường, vỉa hè phía bên phải theo chiều đi của mình; bánh xe gần nhất không được cách xa lề đường, vỉa hè quá 0,25 mét"
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Trên đường cao tốc, nếu xe gặp sự cố kỹ thuật không thể di chuyển vào làn dừng khẩn cấp thì phải đặt biển hoặc đèn cảnh báo cách phía sau xe tối thiểu bao nhiêu mét?",
+    "expected_answer": "Phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách tối thiểu 150 mét, đồng thời nhanh chóng báo cho Cảnh sát giao thông hoặc cơ quan quản lý đường cao tốc.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 2,
+        "evidence": "trường hợp xe không thể di chuyển được vào làn dừng khẩn cấp, phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách tối thiểu 150 mét, nhanh chóng báo cho cơ quan Cảnh sát giao thông thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông trên tuyến hoặc cơ quan quản lý đường cao tốc."
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Màu tín hiệu đèn nhấp nháy của xe cứu thương đang làm nhiệm vụ cấp cứu và xe công an đi làm nhiệm vụ khẩn cấp được quy định như thế nào?",
+    "expected_answer": "Xe cứu thương đang làm nhiệm vụ cấp cứu có đèn nhấp nháy màu đỏ; xe của lực lượng công an đi làm nhiệm vụ khẩn cấp có đèn nhấp nháy màu xanh và đỏ.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 3,
+        "evidence": "xe cứu thương đang làm nhiệm vụ cấp cứu có đèn nhấp nháy màu đỏ;\n\nb) Xe của lực lượng công an, kiểm sát đi làm nhiệm vụ khẩn cấp, xe Cảnh sát giao thông dẫn đường có đèn nhấp nháy màu xanh và đỏ;"
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Người điều khiển xe đạp, xe đạp máy được chở tối đa bao nhiêu người trong trường hợp thông thường và khi chở thêm trẻ em dưới 07 tuổi?",
+    "expected_answer": "Chỉ được chở một người, trừ trường hợp chở thêm một trẻ em dưới 07 tuổi thì được chở tối đa hai người.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 6,
+        "evidence": "1. Người điều khiển xe đạp, xe đạp máy chỉ được chở một người, trừ trường hợp chở thêm một trẻ em dưới 07 tuổi thì được chở tối đa hai người."
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Theo phân hạng mới, giấy phép lái xe hạng A1 và hạng A được cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh hoặc công suất động cơ điện như thế nào?",
+    "expected_answer": "Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW; hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc công suất động cơ điện trên 11 kW và các loại xe quy định cho hạng A1.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 30,
+        "evidence": "a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;\n\nb) Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;"
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Người đủ 16 tuổi và người đủ 18 tuổi được phép điều khiển hoặc cấp bằng lái những loại xe nào?",
+    "expected_answer": "Người đủ 16 tuổi trở lên được điều khiển xe gắn máy; người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1 và chứng chỉ bồi dưỡng kiến thức pháp luật để điều khiển xe máy chuyên dùng.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 34,
+        "evidence": "a) Người đủ 16 tuổi trở lên được điều khiển xe gắn máy;\n\nb) Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1, được cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ;"
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Thời gian làm việc tối đa của người lái xe ô tô kinh doanh vận tải trong một ngày, một tuần và lái xe liên tục là bao nhiêu giờ?",
+    "expected_answer": "Không quá 10 giờ trong một ngày, không quá 48 giờ trong một tuần và lái xe liên tục không quá 04 giờ.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 39,
+        "evidence": "1. Thời gian lái xe của người lái xe ô tô không quá 10 giờ trong một ngày và không quá 48 giờ trong một tuần; lái xe liên tục không quá 04 giờ và bảo đảm các quy định có liên quan của Bộ luật Lao động."
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Người điều khiển xe ô tô không chấp hành hiệu lệnh của đèn tín hiệu giao thông bị phạt tiền từ bao nhiêu đến bao nhiêu đồng?",
+    "expected_answer": "Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng.",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p1",
+        "page": 16,
+        "evidence": "9. Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở;\n\nb) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;"
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Người lái xe ô tô có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở bị phạt tiền mức nào?",
+    "expected_answer": "Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng.",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p1",
+        "page": 17,
+        "evidence": "11. Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;"
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Người điều khiển xe mô tô, xe gắn máy vượt đèn đỏ hoặc đi ngược chiều của đường một chiều bị xử phạt tiền trong khung nào?",
+    "expected_answer": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng.",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p1",
+        "page": 22,
+        "evidence": "7. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”, trừ hành vi vi phạm quy định tại điểm b khoản này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định; điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan;\n\nb) Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;\n\nc) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;"
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm trong thời hạn bao lâu thì được phục hồi đủ 12 điểm?",
+    "expected_answer": "Trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất, nếu không bị trừ điểm thêm thì được phục hồi đủ 12 điểm.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 33,
+        "evidence": "2. Giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất thì được phục hồi đủ 12 điểm."
+      }
+    ],
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo Nghị định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ, nếu cá nhân thực hiện nhiều hành vi vi phạm bị xử phạt trong cùng một lần thì việc trừ điểm giấy phép lái xe được áp dụng như thế nào?",
+    "expected_answer": "Chỉ áp dụng trừ điểm đối với hành vi vi phạm bị trừ nhiều điểm nhất.",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p2",
+        "page": 26,
+        "evidence": "b) Trường hợp cá nhân thực hiện nhiều hành vi vi phạm hành chính hoặc vi phạm hành chính nhiều lần mà bị xử phạt trong cùng một lần, nếu có từ 02 hành vi vi phạm trở lên theo quy định bị trừ điểm giấy phép lái xe thì chỉ áp dụng trừ điểm đối với hành vi vi phạm bị trừ nhiều điểm nhất;"
+      }
+    ],
+    "filter": {
+      "document_type": "nghi_dinh"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo Nghị định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ, khi đủ thời hạn 12 tháng không bị trừ thêm điểm thì việc phục hồi đủ 12 điểm trong cơ sở dữ liệu được thực hiện ra sao?",
+    "expected_answer": "Dữ liệu điểm giấy phép lái xe được tự động phục hồi đủ 12 điểm (gồm cả giấy phép đang trong thời hạn bị tước quyền sử dụng) và cập nhật tự động trong Cơ sở dữ liệu về xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ.",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p2",
+        "page": 28,
+        "evidence": "a) Khi đủ thời hạn 12 tháng, kể từ ngày bị trừ điểm giấy phép lái xe gần nhất, dữ liệu điểm giấy phép lái xe sẽ được tự động phục hồi đủ 12 điểm (gồm cả giấy phép lái xe đang trong thời hạn bị tước quyền sử dụng) và cập nhật tự động trong Cơ sở dữ liệu về xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ;"
+      }
+    ],
+    "filter": {
+      "document_type": "nghi_dinh"
+    }
+  },
+  {
+    "id": "q17",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, luật bắt đầu có hiệu lực thi hành từ ngày nào và khoản nào có hiệu lực muộn hơn?",
+    "expected_answer": "Luật có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ khoản 3 Điều 10 của Luật có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 58,
+        "evidence": "1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 Điều này.\n\n2. Khoản 3 Điều 10 của Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026."
+      }
+    ],
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "q25",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Xe máy leo vỉa hè tránh kẹt xe bị phạt bao nhiêu?",
+    "expected_answer": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với hành vi điều khiển xe đi trên vỉa hè (trừ trường hợp đi qua vỉa hè để vào nhà, cơ quan).",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p1",
+        "page": 22,
+        "evidence": "7. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển “Cấm đi ngược chiều”, trừ hành vi vi phạm quy định tại điểm b khoản này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định; điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan;"
+      }
+    ]
+  },
+  {
+    "id": "q26",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Đang chạy xe máy cầm điện thoại xem map có bị phạt không, phạt nhiêu?",
+    "expected_answer": "Bị phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với hành vi dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi đang điều khiển xe.",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p1",
+        "page": 21,
+        "evidence": "4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h;\n\nb) Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định;\n\nc) Vượt xe trong những trường hợp không được vượt, vượt xe tại đoạn đường có biển báo hiệu có nội dung cấm vượt đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm đ khoản 3 Điều này;\n\nd) Quay đầu xe trong hầm đường bộ;\n\nđ) Người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh (trừ thiết bị trợ thính), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác."
+      }
+    ]
+  },
+  {
+    "id": "q27",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Ngã tư có đèn vàng nhấp nháy thì chạy luôn được không?",
+    "expected_answer": "Được đi, nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 12,
+        "evidence": "trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;"
+      }
+    ]
+  },
+  {
+    "id": "q28",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Chạy xe ban đêm trong phố có đèn đường bật pha được không?",
+    "expected_answer": "Không, phải tắt đèn chiếu xa và bật đèn chiếu gần khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 19,
+        "evidence": "2. Người lái xe, người điều khiển xe máy chuyên dùng phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây:\n\na) Khi gặp người đi bộ qua đường;\n\nb) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động;"
+      }
+    ]
+  },
+  {
+    "id": "q29",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Bằng A1 cũ trước 2025 chạy xe 150cc được không?",
+    "expected_answer": "Được, bằng lái xe hạng A1 cấp trước ngày Luật có hiệu lực nếu chưa đổi, cấp lại vẫn tiếp tục được điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 58,
+        "evidence": "2. Giấy phép lái xe được cấp trước ngày Luật này có hiệu lực thi hành nếu chưa thực hiện đổi, cấp lại theo quy định của Luật này có hiệu lực sử dụng như sau:\n\na) Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3 hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;"
+      }
+    ]
+  },
+  {
+    "id": "q30",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Ra đường chỉ cần mang VNeID có bằng lái tích hợp được không?",
+    "expected_answer": "Được, trường hợp giấy tờ đã được tích hợp vào tài khoản định danh điện tử thì việc xuất trình, kiểm tra có thể thực hiện thông qua tài khoản định danh điện tử.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 30,
+        "evidence": "3. Trường hợp giấy tờ quy định tại khoản 1 và khoản 2 Điều này đã được tích hợp vào tài khoản định danh điện tử thì việc xuất trình, kiểm tra có thể thực hiện thông qua tài khoản định danh điện tử."
+      }
+    ],
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "t01",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, trên một chiều đường có vạch kẻ phân làn đường thì xe thô sơ và xe cơ giới phải đi trên làn nào?",
+    "expected_answer": "Xe thô sơ phải đi trên làn đường bên phải trong cùng; xe cơ giới và xe máy chuyên dùng đi trên làn đường bên trái.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 14,
+        "evidence": "3. Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái."
+      }
+    ],
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "t02",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Khi vượt xe khác trên đường mỗi chiều chỉ có một làn cho xe cơ giới, quy tắc chung phải vượt bên nào và có ngoại lệ nào được phép vượt bên phải không?",
+    "expected_answer": "Phải vượt bên trái; chỉ được vượt về bên phải khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái, hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 14,
+        "evidence": "2. Khi vượt các xe phải vượt bên trái; trường hợp khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái thì được vượt về bên phải."
+      }
+    ]
+  },
+  {
+    "id": "t03",
+    "split": "test",
+    "type": "human_tinh_huong",
+    "question": "Chạy xe trong phố lúc 11 giờ đêm muốn xin vượt xe trước thì có được bóp còi không?",
+    "expected_answer": "Không, trong đô thị và khu đông dân cư từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p1",
+        "page": 15,
+        "evidence": "trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn."
+      }
+    ]
+  },
+  {
+    "id": "t04",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, xe ô tô chở hàng chỉ được phép chở người trên thùng xe trong những trường hợp nào?",
+    "expected_answer": "Chỉ được chở người trong 4 nhóm trường hợp: cứu nạn/cứu hộ/chống thiên tai/dịch bệnh/khẩn cấp/cấp cứu; lực lượng vũ trang làm nhiệm vụ khẩn cấp; thực hành hoặc sát hạch lái xe và công nhân duy tu bảo dưỡng đường bộ; diễu hành theo đoàn được cơ quan có thẩm quyền cho phép.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 4,
+        "evidence": "a) Chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp; chở người bị nạn đi cấp cứu; đưa người ra khỏi khu vực nguy hiểm hoặc trong trường hợp khẩn cấp khác theo quy định của pháp luật;\n\nb) Chở người thuộc lực lượng vũ trang nhân dân đi làm nhiệm vụ khẩn cấp;\n\nc) Chở người đi thực hành lái xe trên xe tập lái; chở người dự sát hạch lái xe trên xe sát hạch; chở công nhân đang làm nhiệm vụ duy tu, bảo dưỡng đường bộ;\n\nd) Chở người diễu hành theo đoàn khi được cơ quan có thẩm quyền cho phép."
+      }
+    ],
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "t05",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "Khi lái xe ô tô đang thế chấp ngân hàng mà không cầm bản gốc giấy đăng ký xe thì cần mang theo giấy tờ gì thay thế?",
+    "expected_answer": "Cần mang theo bản sao Chứng nhận đăng ký xe có chứng thực kèm bản gốc giấy tờ xác nhận của tổ chức tín dụng hoặc chi nhánh ngân hàng nước ngoài còn hiệu lực.",
+    "gold": [
+      {
+        "source_id": "luat-36-2024-qh15-p2",
+        "page": 29,
+        "evidence": "a) Chứng nhận đăng ký xe hoặc bản sao Chứng nhận đăng ký xe có chứng thực kèm bản gốc giấy tờ xác nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài còn hiệu lực trong trường hợp xe đang được thế chấp tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;"
+      }
+    ]
+  },
+  {
+    "id": "t06",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Nghị định 168/2024/NĐ-CP, trung tâm sát hạch lái xe tự ý sử dụng phần mềm sát hạch chưa được chấp thuận hoặc kết nối máy tính phòng thi lý thuyết ra ngoài bị phạt tiền bao nhiêu?",
+    "expected_answer": "Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng.",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p2",
+        "page": 4,
+        "evidence": "7. Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với trung tâm sát hạch lái xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Tự ý thay đổi hoặc sử dụng phần mềm sát hạch, thiết bị chấm điểm, xe sát hạch khi chưa được sự chấp thuận của cơ quan quản lý nhà nước có thẩm quyền;\n\nb) Sử dụng máy tính trong phòng sát hạch lý thuyết kết nối với đường truyền ra ngoài phòng thi trái quy định;"
+      }
+    ],
+    "filter": {
+      "document_type": "nghi_dinh"
+    }
+  },
+  {
+    "id": "t07",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Nghị định 168/2024/NĐ-CP, Trưởng Công an cấp xã và Trưởng Công an cấp huyện có thẩm quyền phạt tiền tối đa đến bao nhiêu đồng?",
+    "expected_answer": "Trưởng Công an cấp xã có quyền phạt tiền đến 2.500.000 đồng; Trưởng Công an cấp huyện có quyền phạt tiền đến 15.000.000 đồng.",
+    "gold": [
+      {
+        "source_id": "nd-168-2024-ndcp-p2",
+        "page": 11,
+        "evidence": "3. Trưởng Công an cấp xã, Trưởng đồn Công an, Trưởng trạm Công an cửa khẩu, khu chế xuất, Tiểu đoàn trưởng Tiểu đoàn Cảnh sát cơ động có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 2.500.000 đồng;\n\nc) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị không vượt quá 5.000.000 đồng;\n\nd) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a, điểm b khoản 3\n\nĐiều 3 của Nghị định này.\n\n4. Trưởng Công an cấp huyện; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát quản lý hành chính về trật tự xã hội; Trưởng phòng Công an cấp tỉnh bao gồm: Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng phòng Cảnh sát giao thông, Trưởng phòng Cảnh sát cơ động, Trung đoàn trưởng Trung đoàn Cảnh sát cơ động có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 15.000.000 đồng;"
+      }
+    ],
+    "filter": {
+      "document_type": "nghi_dinh"
+    }
+  }
+]

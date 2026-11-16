@@ -1,0 +1,28 @@
+{
+  "config": "c2_agentic_tools_b3500",
+  "split": "test",
+  "chat_model": "grok-4.3",
+  "embedding_model": "baai/bge-m3",
+  "day6_strategy": "B_paragraph_900",
+  "total_cases": 10,
+  "status_counts": {
+    "answered": 6,
+    "abstain": 4,
+    "error": 0
+  },
+  "total_seconds": 54.23,
+  "chat_usage": {
+    "prompt_tokens": 73910,
+    "completion_tokens": 2536,
+    "total_tokens": 76446,
+    "cost_usd": 0.0695627,
+    "api_calls": 30
+  },
+  "embed_usage": {
+    "prompt_tokens": 256,
+    "total_tokens": 256,
+    "cost_usd": 2.56e-06,
+    "api_calls": 12
+  },
+  "total_cost_usd": 0.06956526
+}

@@ -1,0 +1,1566 @@
+[
+  {
+    "query_id": "t01",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, trên một chiều đường có vạch kẻ phân làn đường thì xe thô sơ và xe cơ giới phải đi trên làn nào?",
+    "status": "answered",
+    "answer": "Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái [luat-36-2024-qh15-p1:p014:para:c001].",
+    "citations": [
+      "luat-36-2024-qh15-p1:p014:para:c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "vạch kẻ phân làn đường xe thô sơ xe cơ giới đi trên làn nào",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat-36-2024-qh15-p1:p014:para:c001",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 14,
+            "text": "3. Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.\n\n4. Trên làn đường dành riêng cho một loại phương tiện hoặc một nhóm loại phương tiện, người điều khiển loại phương tiện khác không được đi vào làn đường đó.\n\nĐiều 14. Vượt xe và nhường đường cho xe xin vượt\n\n1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước. Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước thì áp dụng quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 792,
+              "raw_chars": 2297,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 2225,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6369361877441452,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "luat-36-2024-qh15-p1:p014:para:c000",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 14,
+            "text": "4. Bộ trưởng Bộ Giao thông vận tải quy định chi tiết về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ.\n\nĐiều 13. Sử dụng làn đường\n\n1. Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi về bên phải theo chiều đi của mình.\n\n2. Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện tham gia giao thông đường bộ phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề; khi chuyển làn đường phải có tín hiệu báo trước; phải quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên mới được chuyển làn.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 765,
+              "raw_chars": 2297,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 2225,
+              "chunk_index": 0,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6008809446763526,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "luat-36-2024-qh15-p2:p006:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 6,
+            "text": "4. Người điều khiển xe thô sơ chỉ được cho xe đi hàng một, nơi có phần đường dành cho xe thô sơ thì phải đi đúng phần đường quy định; khi tham gia giao thông đường bộ trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau phải sử dụng đèn hoặc có báo hiệu ở phía trước và phía sau xe.\n\n5. Hàng hóa xếp trên xe thô sơ phải bảo đảm an toàn, không gây cản trở giao thông và che khuất tầm nhìn của người điều khiển. Hàng hóa xếp trên xe không vượt quá 1/3 chiều dài thân xe và không vượt quá 01 mét phía trước và phía sau xe; không vượt quá 0,4 mét mỗi bên bánh xe.\n\nĐiều 32. Người điều khiển, dẫn dắt vật nuôi, điều khiển xe vật nuôi kéo đi trên đường bộ",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 661,
+              "raw_chars": 2110,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2045,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.5901141274111423,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[luat-36-2024-qh15-p1:p014:para:c001 | starter/data/luat_36_2024_qh15_phan1.pdf | page 14]\n3. Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.\n\n4. Trên làn đường dành riêng cho một loại phương tiện hoặc một nhóm loại phương tiện, người điều khiển loại phương tiện khác không được đi vào làn đường đó.\n\nĐiều 14. Vượt xe và nhường đường cho xe xin vượt\n\n1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước. Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước thì áp dụng quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này.\n\n[luat-36-2024-qh15-p1:p014:para:c000 | starter/data/luat_36_2024_qh15_phan1.pdf | page 14]\n4. Bộ trưởng Bộ Giao thông vận tải quy định chi tiết về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ.\n\nĐiều 13. Sử dụng làn đường\n\n1. Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi về bên phải theo chiều đi của mình.\n\n2. Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện tham gia giao thông đường bộ phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề; khi chuyển làn đường phải có tín hiệu báo trước; phải quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên mới được chuyển làn.",
+        "context_ids": [
+          "luat-36-2024-qh15-p1:p014:para:c001",
+          "luat-36-2024-qh15-p1:p014:para:c000"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[luat-36-2024-qh15-p1:p014:para:c001 | starter/data/luat_36_2024_qh15_phan1.pdf | page 14]\n3. Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.\n\n4. Trên làn đường dành riêng cho một loại phương tiện hoặc một nhóm loại phương tiện, người điều khiển loại phương tiện khác không được đi vào làn đường đó.\n\nĐiều 14. Vượt xe và nhường đường cho xe xin vượt\n\n1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước. Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước thì áp dụng quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này.\n\n[luat-36-2024-qh15-p1:p014:para:c000 | starter/data/luat_36_2024_qh15_phan1.pdf | page 14]\n4. Bộ trưởng Bộ Giao thông vận tải quy định chi tiết về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ.\n\nĐiều 13. Sử dụng làn đường\n\n1. Phương tiện tham gia giao thông đường bộ di chuyển với tốc độ thấp hơn phải đi về bên phải theo chiều đi của mình.\n\n2. Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện tham gia giao thông đường bộ phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề; khi chuyển làn đường phải có tín hiệu báo trước; phải quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên mới được chuyển làn.",
+    "final_context_ids": [
+      "luat-36-2024-qh15-p1:p014:para:c001",
+      "luat-36-2024-qh15-p1:p014:para:c000"
+    ],
+    "elapsed_ms": 3625.07,
+    "chat_usage": {
+      "prompt_tokens": 1727,
+      "completion_tokens": 123,
+      "total_tokens": 1850,
+      "cost_usd": 0.00139105,
+      "api_calls": 2
+    },
+    "embed_usage": {
+      "prompt_tokens": 18,
+      "completion_tokens": 0,
+      "total_tokens": 18,
+      "cost_usd": 1.8e-07,
+      "api_calls": 1
+    }
+  },
+  {
+    "query_id": "t02",
+    "question": "Khi vượt xe khác trên đường mỗi chiều chỉ có một làn cho xe cơ giới, quy tắc chung phải vượt bên nào và có ngoại lệ nào được phép vượt bên phải không?",
+    "status": "answered",
+    "answer": "Khi vượt xe khác trên đường mỗi chiều chỉ có một làn cho xe cơ giới, quy tắc chung phải vượt bên trái [luat-36-2024-qh15-p1:p014:para:c002]. Có ngoại lệ được phép vượt bên phải khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái [luat-36-2024-qh15-p1:p014:para:c002]. Vượt bên phải trong trường hợp không được phép bị xử phạt [nd-168-2024-ndcp-p1:p020:para:c002].",
+    "citations": [
+      "luat-36-2024-qh15-p1:p014:para:c002",
+      "nd-168-2024-ndcp-p1:p020:para:c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "vượt xe đường một làn mỗi chiều vượt bên nào vượt bên phải",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat-36-2024-qh15-p1:p014:para:c001",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 14,
+            "text": "3. Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.\n\n4. Trên làn đường dành riêng cho một loại phương tiện hoặc một nhóm loại phương tiện, người điều khiển loại phương tiện khác không được đi vào làn đường đó.\n\nĐiều 14. Vượt xe và nhường đường cho xe xin vượt\n\n1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước. Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước thì áp dụng quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 792,
+              "raw_chars": 2297,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 2225,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.7215348384020034,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "luat-36-2024-qh15-p1:p014:para:c002",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 14,
+            "text": "2. Khi vượt các xe phải vượt bên trái; trường hợp khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái thì được vượt về bên phải.\n\n3. Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác, đã có tín hiệu rẽ phải và tránh về bên phải.\n\n4. Khi có xe xin vượt, người điều khiển phương tiện tham gia giao thông đường bộ phía trước phải quan sát phần đường phía trước, nếu đủ điều kiện an toàn thì phải giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 664,
+              "raw_chars": 2297,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 2225,
+              "chunk_index": 2,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.667422135490862,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p020:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 20,
+            "text": "d) Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường, làn đường quy định (làn cùng chiều hoặc làn ngược chiều); điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;\n\nđ) Vượt bên phải trong trường hợp không được phép;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 268,
+              "raw_chars": 1987,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 1923,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.632349095800583,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[luat-36-2024-qh15-p1:p014:para:c001 | starter/data/luat_36_2024_qh15_phan1.pdf | page 14]\n3. Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.\n\n4. Trên làn đường dành riêng cho một loại phương tiện hoặc một nhóm loại phương tiện, người điều khiển loại phương tiện khác không được đi vào làn đường đó.\n\nĐiều 14. Vượt xe và nhường đường cho xe xin vượt\n\n1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước. Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước thì áp dụng quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này.\n\n[luat-36-2024-qh15-p1:p014:para:c002 | starter/data/luat_36_2024_qh15_phan1.pdf | page 14]\n2. Khi vượt các xe phải vượt bên trái; trường hợp khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái thì được vượt về bên phải.\n\n3. Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác, đã có tín hiệu rẽ phải và tránh về bên phải.\n\n4. Khi có xe xin vượt, người điều khiển phương tiện tham gia giao thông đường bộ phía trước phải quan sát phần đường phía trước, nếu đủ điều kiện an toàn thì phải giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương\n\n[nd-168-2024-ndcp-p1:p020:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 20]\nd) Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường, làn đường quy định (làn cùng chiều hoặc làn ngược chiều); điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;\n\nđ) Vượt bên phải trong trường hợp không được phép;",
+        "context_ids": [
+          "luat-36-2024-qh15-p1:p014:para:c001",
+          "luat-36-2024-qh15-p1:p014:para:c002",
+          "nd-168-2024-ndcp-p1:p020:para:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[luat-36-2024-qh15-p1:p014:para:c001 | starter/data/luat_36_2024_qh15_phan1.pdf | page 14]\n3. Trên một chiều đường có vạch kẻ phân làn đường, xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.\n\n4. Trên làn đường dành riêng cho một loại phương tiện hoặc một nhóm loại phương tiện, người điều khiển loại phương tiện khác không được đi vào làn đường đó.\n\nĐiều 14. Vượt xe và nhường đường cho xe xin vượt\n\n1. Vượt xe là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước. Trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước thì áp dụng quy tắc sử dụng làn đường quy định tại Điều 13 của Luật này.\n\n[luat-36-2024-qh15-p1:p014:para:c002 | starter/data/luat_36_2024_qh15_phan1.pdf | page 14]\n2. Khi vượt các xe phải vượt bên trái; trường hợp khi xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái thì được vượt về bên phải.\n\n3. Xe xin vượt chỉ được vượt khi không có chướng ngại vật phía trước, không có xe chạy ngược chiều trong đoạn đường định vượt, xe chạy trước không có tín hiệu vượt xe khác, đã có tín hiệu rẽ phải và tránh về bên phải.\n\n4. Khi có xe xin vượt, người điều khiển phương tiện tham gia giao thông đường bộ phía trước phải quan sát phần đường phía trước, nếu đủ điều kiện an toàn thì phải giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương\n\n[nd-168-2024-ndcp-p1:p020:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 20]\nd) Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường, làn đường quy định (làn cùng chiều hoặc làn ngược chiều); điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;\n\nđ) Vượt bên phải trong trường hợp không được phép;",
+    "final_context_ids": [
+      "luat-36-2024-qh15-p1:p014:para:c001",
+      "luat-36-2024-qh15-p1:p014:para:c002",
+      "nd-168-2024-ndcp-p1:p020:para:c002"
+    ],
+    "elapsed_ms": 3760.38,
+    "chat_usage": {
+      "prompt_tokens": 1822,
+      "completion_tokens": 213,
+      "total_tokens": 2035,
+      "cost_usd": 0.002138,
+      "api_calls": 2
+    },
+    "embed_usage": {
+      "prompt_tokens": 15,
+      "completion_tokens": 0,
+      "total_tokens": 15,
+      "cost_usd": 1.5e-07,
+      "api_calls": 1
+    }
+  },
+  {
+    "query_id": "t03",
+    "question": "Chạy xe trong phố lúc 11 giờ đêm muốn xin vượt xe trước thì có được bóp còi không?",
+    "status": "answered",
+    "answer": "Trong đô thị và khu đông dân cư, từ 22 giờ đến 05 giờ chỉ được báo hiệu xin vượt bằng đèn, không được sử dụng còi [luat-36-2024-qh15-p1:p015:para:c000]. Đồng thời, nghiêm cấm sử dụng còi trong khoảng thời gian từ 22 giờ đến 05 giờ trong khu đông dân cư [luat-36-2024-qh15-p1:p019:para:c001].",
+    "citations": [
+      "luat-36-2024-qh15-p1:p015:para:c000",
+      "luat-36-2024-qh15-p1:p019:para:c001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "bóp còi xin vượt xe trong phố lúc 11 giờ đêm",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat-36-2024-qh15-p1:p015:para:c000",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 15,
+            "text": "tiện tham gia giao thông đường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được cản trở đối với xe xin vượt. Trường hợp có chướng ngại vật hoặc không đủ điều kiện an toàn thì người điều khiển phương tiện tham gia giao thông đường bộ phía trước có tín hiệu rẽ trái để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết là chưa được vượt.\n\n5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 880,
+              "raw_chars": 1787,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 1718,
+              "chunk_index": 0,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.5759679927845016,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "luat-36-2024-qh15-p1:p019:para:c001",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 19,
+            "text": "2. Không sử dụng còi liên tục; không sử dụng còi có âm lượng không đúng quy định; không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.\n\nĐiều 22. Nhường đường tại nơi đường giao nhau Khi đến gần đường giao nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ và nhường đường theo quy định sau đây:\n\n1. Tại nơi đường giao nhau giữa đường không ưu tiên với đường ưu tiên hoặc giữa đường nhánh với đường chính thì xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới;\n\n2. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên phải;",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 798,
+              "raw_chars": 1755,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 1694,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.5440478324890137,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p026:para:c003",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 26,
+            "text": "b) Sử dụng còi, rú ga liên tục; sử dụng còi hơi, sử dụng đèn chiếu xa khi gặp người đi bộ qua đường hoặc khi đi trên đoạn đường qua khu dân cư có hệ thống chiếu sáng đang hoạt động hoặc khi gặp xe đi ngược chiều (trừ trường hợp dải phân cách có khả năng chống chói) hoặc khi chuyển hướng xe tại nơi đường giao nhau, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 370,
+              "raw_chars": 2407,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2339,
+              "chunk_index": 3,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.5371662538399178,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[luat-36-2024-qh15-p1:p015:para:c000 | starter/data/luat_36_2024_qh15_phan1.pdf | page 15]\ntiện tham gia giao thông đường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được cản trở đối với xe xin vượt. Trường hợp có chướng ngại vật hoặc không đủ điều kiện an toàn thì người điều khiển phương tiện tham gia giao thông đường bộ phía trước có tín hiệu rẽ trái để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết là chưa được vượt.\n\n5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.\n\n[luat-36-2024-qh15-p1:p019:para:c001 | starter/data/luat_36_2024_qh15_phan1.pdf | page 19]\n2. Không sử dụng còi liên tục; không sử dụng còi có âm lượng không đúng quy định; không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.\n\nĐiều 22. Nhường đường tại nơi đường giao nhau Khi đến gần đường giao nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ và nhường đường theo quy định sau đây:\n\n1. Tại nơi đường giao nhau giữa đường không ưu tiên với đường ưu tiên hoặc giữa đường nhánh với đường chính thì xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới;\n\n2. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên phải;\n\n[nd-168-2024-ndcp-p1:p026:para:c003 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 26]\nb) Sử dụng còi, rú ga liên tục; sử dụng còi hơi, sử dụng đèn chiếu xa khi gặp người đi bộ qua đường hoặc khi đi trên đoạn đường qua khu dân cư có hệ thống chiếu sáng đang hoạt động hoặc khi gặp xe đi ngược chiều (trừ trường hợp dải phân cách có khả năng chống chói) hoặc khi chuyển hướng xe tại nơi đường giao nhau, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định;",
+        "context_ids": [
+          "luat-36-2024-qh15-p1:p015:para:c000",
+          "luat-36-2024-qh15-p1:p019:para:c001",
+          "nd-168-2024-ndcp-p1:p026:para:c003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[luat-36-2024-qh15-p1:p015:para:c000 | starter/data/luat_36_2024_qh15_phan1.pdf | page 15]\ntiện tham gia giao thông đường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được cản trở đối với xe xin vượt. Trường hợp có chướng ngại vật hoặc không đủ điều kiện an toàn thì người điều khiển phương tiện tham gia giao thông đường bộ phía trước có tín hiệu rẽ trái để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết là chưa được vượt.\n\n5. Xe xin vượt phải có báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi, trừ loại xe thô sơ không có đèn chiếu sáng và còi, khi vượt xe phải có tín hiệu báo hướng chuyển, tín hiệu báo hướng chuyển được sử dụng, bảo đảm khoảng cách an toàn với xe phía trước và phía sau trong suốt quá trình vượt xe; trong đô thị và khu đông dân cư trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau chỉ được báo hiệu xin vượt bằng đèn.\n\n[luat-36-2024-qh15-p1:p019:para:c001 | starter/data/luat_36_2024_qh15_phan1.pdf | page 19]\n2. Không sử dụng còi liên tục; không sử dụng còi có âm lượng không đúng quy định; không sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.\n\nĐiều 22. Nhường đường tại nơi đường giao nhau Khi đến gần đường giao nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ và nhường đường theo quy định sau đây:\n\n1. Tại nơi đường giao nhau giữa đường không ưu tiên với đường ưu tiên hoặc giữa đường nhánh với đường chính thì xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới;\n\n2. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên phải;\n\n[nd-168-2024-ndcp-p1:p026:para:c003 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 26]\nb) Sử dụng còi, rú ga liên tục; sử dụng còi hơi, sử dụng đèn chiếu xa khi gặp người đi bộ qua đường hoặc khi đi trên đoạn đường qua khu dân cư có hệ thống chiếu sáng đang hoạt động hoặc khi gặp xe đi ngược chiều (trừ trường hợp dải phân cách có khả năng chống chói) hoặc khi chuyển hướng xe tại nơi đường giao nhau, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định;",
+    "final_context_ids": [
+      "luat-36-2024-qh15-p1:p015:para:c000",
+      "luat-36-2024-qh15-p1:p019:para:c001",
+      "nd-168-2024-ndcp-p1:p026:para:c003"
+    ],
+    "elapsed_ms": 3433.67,
+    "chat_usage": {
+      "prompt_tokens": 1881,
+      "completion_tokens": 178,
+      "total_tokens": 2059,
+      "cost_usd": 0.00172105,
+      "api_calls": 2
+    },
+    "embed_usage": {
+      "prompt_tokens": 15,
+      "completion_tokens": 0,
+      "total_tokens": 15,
+      "cost_usd": 1.5e-07,
+      "api_calls": 1
+    }
+  },
+  {
+    "query_id": "t04",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, xe ô tô chở hàng chỉ được phép chở người trên thùng xe trong những trường hợp nào?",
+    "status": "answered",
+    "answer": "Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp sau đây: [luat-36-2024-qh15-p2:p004:para:c000].",
+    "citations": [
+      "luat-36-2024-qh15-p2:p004:para:c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "xe ô tô chở hàng chở người trên thùng xe trường hợp nào Luật 36/2024/QH15",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat-36-2024-qh15-p2:p004:para:c000",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 4,
+            "text": "5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở.\n\n6. Chính phủ quy định về quản lý, lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên và trình tự, thủ tục cấp mới, cấp lại và thu hồi giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên.\n\n7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam.\n\nĐiều 28. Trường hợp chở người trên xe ô tô chở hàng\n\n1. Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp sau đây:",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 826,
+              "raw_chars": 2119,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2057,
+              "chunk_index": 0,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6409762119665031,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "luat-36-2024-qh15-p1:p008:para:c002",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 8,
+            "text": "13. Chở hàng hóa vượt quá khối lượng toàn bộ, tải trọng trục, kích thước cho phép của xe hoặc vượt quá tải trọng, kích thước giới hạn cho phép của đường bộ khi chưa được cơ quan quản lý cấp phép hoặc không bảo đảm yêu cầu theo quy định của Luật này; chở hàng hóa trên xe có quy định phải chằng buộc nhưng không chằng buộc hoặc chằng buộc không đúng quy định của pháp luật; chở quá số người theo quy định của pháp luật.\n\n14. Vận chuyển hàng hóa cấm lưu hành, vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định của pháp luật về vận chuyển hàng hóa nguy hiểm, động vật hoang dã.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 586,
+              "raw_chars": 2237,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 2173,
+              "chunk_index": 2,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.617259484015125,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "luat-36-2024-qh15-p2:p004:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 4,
+            "text": "a) Chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp; chở người bị nạn đi cấp cứu; đưa người ra khỏi khu vực nguy hiểm hoặc trong trường hợp khẩn cấp khác theo quy định của pháp luật;\n\nb) Chở người thuộc lực lượng vũ trang nhân dân đi làm nhiệm vụ khẩn cấp;\n\nc) Chở người đi thực hành lái xe trên xe tập lái; chở người dự sát hạch lái xe trên xe sát hạch; chở công nhân đang làm nhiệm vụ duy tu, bảo dưỡng đường bộ;\n\nd) Chở người diễu hành theo đoàn khi được cơ quan có thẩm quyền cho phép.\n\n2. Xe ô tô chở hàng mà chở người trong các trường hợp quy định tại khoản 1 Điều này phải bảo đảm an toàn khi tham gia giao thông đường bộ.\n\nĐiều 29. Xe kéo xe, xe kéo rơ moóc và xe ô tô đầu kéo kéo sơ mi rơ moóc",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 763,
+              "raw_chars": 2119,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2057,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6160884728378979,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[luat-36-2024-qh15-p2:p004:para:c000 | starter/data/luat_36_2024_qh15_phan2.pdf | page 4]\n5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở.\n\n6. Chính phủ quy định về quản lý, lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên và trình tự, thủ tục cấp mới, cấp lại và thu hồi giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên.\n\n7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam.\n\nĐiều 28. Trường hợp chở người trên xe ô tô chở hàng\n\n1. Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp sau đây:\n\n[luat-36-2024-qh15-p1:p008:para:c002 | starter/data/luat_36_2024_qh15_phan1.pdf | page 8]\n13. Chở hàng hóa vượt quá khối lượng toàn bộ, tải trọng trục, kích thước cho phép của xe hoặc vượt quá tải trọng, kích thước giới hạn cho phép của đường bộ khi chưa được cơ quan quản lý cấp phép hoặc không bảo đảm yêu cầu theo quy định của Luật này; chở hàng hóa trên xe có quy định phải chằng buộc nhưng không chằng buộc hoặc chằng buộc không đúng quy định của pháp luật; chở quá số người theo quy định của pháp luật.\n\n14. Vận chuyển hàng hóa cấm lưu hành, vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định của pháp luật về vận chuyển hàng hóa nguy hiểm, động vật hoang dã.",
+        "context_ids": [
+          "luat-36-2024-qh15-p2:p004:para:c000",
+          "luat-36-2024-qh15-p1:p008:para:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[luat-36-2024-qh15-p2:p004:para:c000 | starter/data/luat_36_2024_qh15_phan2.pdf | page 4]\n5. Khi có tín hiệu của xe ưu tiên, người và phương tiện tham gia giao thông đường bộ phải giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường, trạm thu phí phải ưu tiên cho xe ưu tiên qua trạm trong mọi tình huống, không được gây cản trở.\n\n6. Chính phủ quy định về quản lý, lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên và trình tự, thủ tục cấp mới, cấp lại và thu hồi giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên.\n\n7. Bộ trưởng Bộ Công an quy định các đoàn trong nước và khách nước ngoài đến Việt Nam có bố trí xe Cảnh sát giao thông dẫn đường; quy định quy trình dẫn đường của Cảnh sát giao thông đối với các đoàn trong nước và khách nước ngoài đến Việt Nam.\n\nĐiều 28. Trường hợp chở người trên xe ô tô chở hàng\n\n1. Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp sau đây:\n\n[luat-36-2024-qh15-p1:p008:para:c002 | starter/data/luat_36_2024_qh15_phan1.pdf | page 8]\n13. Chở hàng hóa vượt quá khối lượng toàn bộ, tải trọng trục, kích thước cho phép của xe hoặc vượt quá tải trọng, kích thước giới hạn cho phép của đường bộ khi chưa được cơ quan quản lý cấp phép hoặc không bảo đảm yêu cầu theo quy định của Luật này; chở hàng hóa trên xe có quy định phải chằng buộc nhưng không chằng buộc hoặc chằng buộc không đúng quy định của pháp luật; chở quá số người theo quy định của pháp luật.\n\n14. Vận chuyển hàng hóa cấm lưu hành, vận chuyển trái phép hoặc không thực hiện đầy đủ các quy định của pháp luật về vận chuyển hàng hóa nguy hiểm, động vật hoang dã.",
+    "final_context_ids": [
+      "luat-36-2024-qh15-p2:p004:para:c000",
+      "luat-36-2024-qh15-p1:p008:para:c002"
+    ],
+    "elapsed_ms": 4330.54,
+    "chat_usage": {
+      "prompt_tokens": 1707,
+      "completion_tokens": 111,
+      "total_tokens": 1818,
+      "cost_usd": 0.00133605,
+      "api_calls": 2
+    },
+    "embed_usage": {
+      "prompt_tokens": 24,
+      "completion_tokens": 0,
+      "total_tokens": 24,
+      "cost_usd": 2.4e-07,
+      "api_calls": 1
+    }
+  },
+  {
+    "query_id": "t05",
+    "question": "Khi lái xe ô tô đang thế chấp ngân hàng mà không cầm bản gốc giấy đăng ký xe thì cần mang theo giấy tờ gì thay thế?",
+    "status": "answered",
+    "answer": "Người lái xe ô tô đang thế chấp ngân hàng không có bản gốc giấy đăng ký xe cần mang theo bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận còn hiệu lực của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài [nd-168-2024-ndcp-p2:p024:para:c002].",
+    "citations": [
+      "nd-168-2024-ndcp-p2:p024:para:c002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "lái xe ô tô thế chấp ngân hàng không có bản gốc giấy đăng ký xe cần mang giấy tờ gì thay thế",
+        "filter": null,
+        "results": [
+          {
+            "id": "nd-168-2024-ndcp-p2:p024:para:c002",
+            "source_id": "nd-168-2024-ndcp-p2",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf",
+            "page": 24,
+            "text": "3. Đối với trường hợp tại thời điểm kiểm tra, người điều khiển phương tiện không xuất trình được một, một số hoặc tất cả các giấy tờ (giấy phép lái xe, chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận còn hiệu lực của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe), giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường) theo quy định (bản giấy hoặc thông tin của các giấy tờ được tích hợp trong tài khoản định danh điện tử) thì xử lý như sau:",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 2 (Công báo số 77 + 78)",
+              "char_len": 611,
+              "raw_chars": 2133,
+              "source_id": "nd-168-2024-ndcp-p2",
+              "norm_chars": 2065,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6611578868439333,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p041:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 41,
+            "text": "b) Thực hiện hành vi quy định tại điểm a khoản 4, điểm a khoản 6 Điều này trong trường hợp không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) không do cơ quan có thẩm quyền cấp, không đúng số khung, số động cơ (số máy) của xe hoặc bị tẩy xóa (kể cả rơ moóc và sơ mi rơ moóc) mà không chứng minh được nguồn gốc xuất xứ của phương tiện (không có giấy tờ, chứng nhận nguồn gốc xe, chứng nhận quyền sở hữu hợp pháp)",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 898,
+              "raw_chars": 2277,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2208,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6313538175014377,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p084:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 84,
+            "text": "b) Thực hiện hành vi quy định tại điểm đ, điểm e khoản 8; điểm đ khoản 9; điểm a khoản 12 Điều này trong trường hợp không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 531,
+              "raw_chars": 2040,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 1974,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6278509345232326,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[nd-168-2024-ndcp-p2:p024:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 24]\n3. Đối với trường hợp tại thời điểm kiểm tra, người điều khiển phương tiện không xuất trình được một, một số hoặc tất cả các giấy tờ (giấy phép lái xe, chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận còn hiệu lực của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe), giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường) theo quy định (bản giấy hoặc thông tin của các giấy tờ được tích hợp trong tài khoản định danh điện tử) thì xử lý như sau:\n\n[nd-168-2024-ndcp-p1:p041:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 41]\nb) Thực hiện hành vi quy định tại điểm a khoản 4, điểm a khoản 6 Điều này trong trường hợp không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) không do cơ quan có thẩm quyền cấp, không đúng số khung, số động cơ (số máy) của xe hoặc bị tẩy xóa (kể cả rơ moóc và sơ mi rơ moóc) mà không chứng minh được nguồn gốc xuất xứ của phương tiện (không có giấy tờ, chứng nhận nguồn gốc xe, chứng nhận quyền sở hữu hợp pháp)\n\n[nd-168-2024-ndcp-p1:p084:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 84]\nb) Thực hiện hành vi quy định tại điểm đ, điểm e khoản 8; điểm đ khoản 9; điểm a khoản 12 Điều này trong trường hợp không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân",
+        "context_ids": [
+          "nd-168-2024-ndcp-p2:p024:para:c002",
+          "nd-168-2024-ndcp-p1:p041:para:c002",
+          "nd-168-2024-ndcp-p1:p084:para:c002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[nd-168-2024-ndcp-p2:p024:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 24]\n3. Đối với trường hợp tại thời điểm kiểm tra, người điều khiển phương tiện không xuất trình được một, một số hoặc tất cả các giấy tờ (giấy phép lái xe, chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận còn hiệu lực của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe), giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường) theo quy định (bản giấy hoặc thông tin của các giấy tờ được tích hợp trong tài khoản định danh điện tử) thì xử lý như sau:\n\n[nd-168-2024-ndcp-p1:p041:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 41]\nb) Thực hiện hành vi quy định tại điểm a khoản 4, điểm a khoản 6 Điều này trong trường hợp không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc sử dụng chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) không do cơ quan có thẩm quyền cấp, không đúng số khung, số động cơ (số máy) của xe hoặc bị tẩy xóa (kể cả rơ moóc và sơ mi rơ moóc) mà không chứng minh được nguồn gốc xuất xứ của phương tiện (không có giấy tờ, chứng nhận nguồn gốc xe, chứng nhận quyền sở hữu hợp pháp)\n\n[nd-168-2024-ndcp-p1:p084:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 84]\nb) Thực hiện hành vi quy định tại điểm đ, điểm e khoản 8; điểm đ khoản 9; điểm a khoản 12 Điều này trong trường hợp không có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giữ bản gốc chứng nhận đăng ký xe) hoặc có chứng nhận đăng ký xe (hoặc bản sao chứng nhận đăng ký xe có chứng thực kèm theo bản gốc giấy biên nhận của tổ chức tín dụng, chi nhánh ngân",
+    "final_context_ids": [
+      "nd-168-2024-ndcp-p2:p024:para:c002",
+      "nd-168-2024-ndcp-p1:p041:para:c002",
+      "nd-168-2024-ndcp-p1:p084:para:c002"
+    ],
+    "elapsed_ms": 3188.48,
+    "chat_usage": {
+      "prompt_tokens": 1909,
+      "completion_tokens": 141,
+      "total_tokens": 2050,
+      "cost_usd": 0.00206675,
+      "api_calls": 2
+    },
+    "embed_usage": {
+      "prompt_tokens": 25,
+      "completion_tokens": 0,
+      "total_tokens": 25,
+      "cost_usd": 2.5e-07,
+      "api_calls": 1
+    }
+  },
+  {
+    "query_id": "t06",
+    "question": "Theo Nghị định 168/2024/NĐ-CP, trung tâm sát hạch lái xe tự ý sử dụng phần mềm sát hạch chưa được chấp thuận hoặc kết nối máy tính phòng thi lý thuyết ra ngoài bị phạt tiền bao nhiêu?",
+    "status": "answered",
+    "answer": "Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng [nd-168-2024-ndcp-p2:p004:para:c000].",
+    "citations": [
+      "nd-168-2024-ndcp-p2:p004:para:c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Nghị định 168/2024/NĐ-CP trung tâm sát hạch lái xe phần mềm sát hạch chưa được chấp thuận kết nối máy tính phòng thi lý thuyết phạt tiền",
+        "filter": null,
+        "results": [
+          {
+            "id": "nd-168-2024-ndcp-p2:p004:para:c000",
+            "source_id": "nd-168-2024-ndcp-p2",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf",
+            "page": 4,
+            "text": "7. Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với trung tâm sát hạch lái xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Tự ý thay đổi hoặc sử dụng phần mềm sát hạch, thiết bị chấm điểm, xe sát hạch khi chưa được sự chấp thuận của cơ quan quản lý nhà nước có thẩm quyền;\n\nb) Sử dụng máy tính trong phòng sát hạch lý thuyết kết nối với đường truyền ra ngoài phòng thi trái quy định;\n\nc) Cố tình để phương tiện, trang thiết bị chấm điểm hoạt động không chính xác trong kỳ sát hạch; để các dấu hiệu, ký hiệu trái quy định trên sân sát hạch, xe sát hạch trong kỳ sát hạch.\n\n8. Giáo viên dạy thực hành để học viên thực hành lái xe thực hiện một trong các hành vi vi phạm quy định tại Điều 6 của Nghị định này, bị xử phạt theo quy định đối với hành vi vi phạm đó.",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 2 (Công báo số 77 + 78)",
+              "char_len": 775,
+              "raw_chars": 2175,
+              "source_id": "nd-168-2024-ndcp-p2",
+              "norm_chars": 2114,
+              "chunk_index": 0,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.7425209283828735,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "nd-168-2024-ndcp-p2:p003:para:c001",
+            "source_id": "nd-168-2024-ndcp-p2",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf",
+            "page": 3,
+            "text": "d) Cơ sở đào tạo lái xe sử dụng biện pháp kỹ thuật, trang thiết bị ngoại vi, các biện pháp khác để can thiệp vào quá trình hoạt động làm sai lệch dữ liệu của thiết bị giám sát thời gian học lý thuyết, thời gian, quãng đường học thực hành lái xe;\n\nđ) Trung tâm sát hạch lái xe không lắp đủ camera giám sát phòng sát hạch lý thuyết, mô phỏng các tình huống giao thông, sân sát hạch theo quy định hoặc có lắp camera giám sát nhưng không hoạt động theo quy định;\n\ne) Trung tâm sát hạch lái xe có trên 50% số xe sát hạch lái xe trong hình được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;\n\ng) Trung tâm sát hạch lái xe có trên 50% số xe sát hạch lái xe trên đường được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;\n\nh) Trung tâm sát hạch lái xe có trên 50% số máy tính sát hạch lý thuyết được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 2 (Công báo số 77 + 78)",
+              "char_len": 876,
+              "raw_chars": 2207,
+              "source_id": "nd-168-2024-ndcp-p2",
+              "norm_chars": 2143,
+              "chunk_index": 1,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.7098451852798462,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p2:p003:para:c000",
+            "source_id": "nd-168-2024-ndcp-p2",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf",
+            "page": 3,
+            "text": "k) Trung tâm sát hạch lái xe không có đủ màn hình để công khai hình ảnh giám sát phòng sát hạch lý thuyết, mô phỏng các tình huống giao thông, kết quả sát hạch lái xe theo quy định hoặc có đủ màn hình nhưng không hoạt động theo quy định trong quá trình sát hạch.\n\n5. Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với cơ sở đào tạo lái xe, trung tâm sát hạch lái xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Cơ sở đào tạo lái xe tổ chức tuyển sinh, đào tạo không đúng hạng giấy phép lái xe được phép đào tạo;\n\nb) Cơ sở đào tạo lái xe đào tạo không đúng nội dung, chương trình, giáo trình theo quy định;\n\nc) Cơ sở đào tạo lái xe xét hoàn thành khoá đào tạo hoặc cấp chứng chỉ sơ cấp hoặc cấp chứng chỉ đào tạo cho học viên sai quy định;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 2 (Công báo số 77 + 78)",
+              "char_len": 752,
+              "raw_chars": 2207,
+              "source_id": "nd-168-2024-ndcp-p2",
+              "norm_chars": 2143,
+              "chunk_index": 0,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.7088446021080017,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[nd-168-2024-ndcp-p2:p004:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 4]\n7. Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với trung tâm sát hạch lái xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Tự ý thay đổi hoặc sử dụng phần mềm sát hạch, thiết bị chấm điểm, xe sát hạch khi chưa được sự chấp thuận của cơ quan quản lý nhà nước có thẩm quyền;\n\nb) Sử dụng máy tính trong phòng sát hạch lý thuyết kết nối với đường truyền ra ngoài phòng thi trái quy định;\n\nc) Cố tình để phương tiện, trang thiết bị chấm điểm hoạt động không chính xác trong kỳ sát hạch; để các dấu hiệu, ký hiệu trái quy định trên sân sát hạch, xe sát hạch trong kỳ sát hạch.\n\n8. Giáo viên dạy thực hành để học viên thực hành lái xe thực hiện một trong các hành vi vi phạm quy định tại Điều 6 của Nghị định này, bị xử phạt theo quy định đối với hành vi vi phạm đó.\n\n[nd-168-2024-ndcp-p2:p003:para:c001 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 3]\nd) Cơ sở đào tạo lái xe sử dụng biện pháp kỹ thuật, trang thiết bị ngoại vi, các biện pháp khác để can thiệp vào quá trình hoạt động làm sai lệch dữ liệu của thiết bị giám sát thời gian học lý thuyết, thời gian, quãng đường học thực hành lái xe;\n\nđ) Trung tâm sát hạch lái xe không lắp đủ camera giám sát phòng sát hạch lý thuyết, mô phỏng các tình huống giao thông, sân sát hạch theo quy định hoặc có lắp camera giám sát nhưng không hoạt động theo quy định;\n\ne) Trung tâm sát hạch lái xe có trên 50% số xe sát hạch lái xe trong hình được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;\n\ng) Trung tâm sát hạch lái xe có trên 50% số xe sát hạch lái xe trên đường được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;\n\nh) Trung tâm sát hạch lái xe có trên 50% số máy tính sát hạch lý thuyết được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;",
+        "context_ids": [
+          "nd-168-2024-ndcp-p2:p004:para:c000",
+          "nd-168-2024-ndcp-p2:p003:para:c001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[nd-168-2024-ndcp-p2:p004:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 4]\n7. Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với trung tâm sát hạch lái xe thực hiện một trong các hành vi vi phạm sau đây:\n\na) Tự ý thay đổi hoặc sử dụng phần mềm sát hạch, thiết bị chấm điểm, xe sát hạch khi chưa được sự chấp thuận của cơ quan quản lý nhà nước có thẩm quyền;\n\nb) Sử dụng máy tính trong phòng sát hạch lý thuyết kết nối với đường truyền ra ngoài phòng thi trái quy định;\n\nc) Cố tình để phương tiện, trang thiết bị chấm điểm hoạt động không chính xác trong kỳ sát hạch; để các dấu hiệu, ký hiệu trái quy định trên sân sát hạch, xe sát hạch trong kỳ sát hạch.\n\n8. Giáo viên dạy thực hành để học viên thực hành lái xe thực hiện một trong các hành vi vi phạm quy định tại Điều 6 của Nghị định này, bị xử phạt theo quy định đối với hành vi vi phạm đó.\n\n[nd-168-2024-ndcp-p2:p003:para:c001 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 3]\nd) Cơ sở đào tạo lái xe sử dụng biện pháp kỹ thuật, trang thiết bị ngoại vi, các biện pháp khác để can thiệp vào quá trình hoạt động làm sai lệch dữ liệu của thiết bị giám sát thời gian học lý thuyết, thời gian, quãng đường học thực hành lái xe;\n\nđ) Trung tâm sát hạch lái xe không lắp đủ camera giám sát phòng sát hạch lý thuyết, mô phỏng các tình huống giao thông, sân sát hạch theo quy định hoặc có lắp camera giám sát nhưng không hoạt động theo quy định;\n\ne) Trung tâm sát hạch lái xe có trên 50% số xe sát hạch lái xe trong hình được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;\n\ng) Trung tâm sát hạch lái xe có trên 50% số xe sát hạch lái xe trên đường được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;\n\nh) Trung tâm sát hạch lái xe có trên 50% số máy tính sát hạch lý thuyết được cấp phép không bảo đảm điều kiện để sát hạch theo quy định;",
+    "final_context_ids": [
+      "nd-168-2024-ndcp-p2:p004:para:c000",
+      "nd-168-2024-ndcp-p2:p003:para:c001"
+    ],
+    "elapsed_ms": 3124.73,
+    "chat_usage": {
+      "prompt_tokens": 1827,
+      "completion_tokens": 120,
+      "total_tokens": 1947,
+      "cost_usd": 0.00150855,
+      "api_calls": 2
+    },
+    "embed_usage": {
+      "prompt_tokens": 37,
+      "completion_tokens": 0,
+      "total_tokens": 37,
+      "cost_usd": 3.7e-07,
+      "api_calls": 1
+    }
+  },
+  {
+    "query_id": "t07",
+    "question": "Theo Nghị định 168/2024/NĐ-CP, Trưởng Công an cấp xã và Trưởng Công an cấp huyện có thẩm quyền phạt tiền tối đa đến bao nhiêu đồng?",
+    "status": "answered",
+    "answer": "Trưởng Công an cấp xã có quyền phạt tiền đến 2.500.000 đồng [nd-168-2024-ndcp-p2:p011:para:c000]. Trưởng Công an cấp huyện có quyền phạt tiền đến 15.000.000 đồng [nd-168-2024-ndcp-p2:p011:para:c000].",
+    "citations": [
+      "nd-168-2024-ndcp-p2:p011:para:c000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Nghị định 168/2024/NĐ-CP thẩm quyền phạt tiền Trưởng Công an cấp xã cấp huyện",
+        "filter": null,
+        "results": [
+          {
+            "id": "nd-168-2024-ndcp-p2:p011:para:c000",
+            "source_id": "nd-168-2024-ndcp-p2",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf",
+            "page": 11,
+            "text": "3. Trưởng Công an cấp xã, Trưởng đồn Công an, Trưởng trạm Công an cửa khẩu, khu chế xuất, Tiểu đoàn trưởng Tiểu đoàn Cảnh sát cơ động có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 2.500.000 đồng;\n\nc) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị không vượt quá 5.000.000 đồng;\n\nd) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a, điểm b khoản 3\n\nĐiều 3 của Nghị định này.\n\n4. Trưởng Công an cấp huyện; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát quản lý hành chính về trật tự xã hội; Trưởng phòng Công an cấp tỉnh bao gồm: Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng phòng Cảnh sát giao thông, Trưởng phòng Cảnh sát cơ động, Trung đoàn trưởng Trung đoàn Cảnh sát cơ động có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 15.000.000 đồng;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 2 (Công báo số 77 + 78)",
+              "char_len": 849,
+              "raw_chars": 1632,
+              "source_id": "nd-168-2024-ndcp-p2",
+              "norm_chars": 1575,
+              "chunk_index": 0,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6807780265808105,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "nd-168-2024-ndcp-p2:p010:para:c001",
+            "source_id": "nd-168-2024-ndcp-p2",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf",
+            "page": 10,
+            "text": "đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.\n\nĐiều 43. Thẩm quyền xử phạt của Công an nhân dân\n\n1. Chiến sĩ Công an nhân dân đang thi hành công vụ có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 500.000 đồng.\n\n2. Thủ trưởng đơn vị Cảnh sát cơ động cấp đại đội, Trưởng trạm, Đội trưởng của người quy định tại khoản 1 Điều này có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 1.500.000 đồng.",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 2 (Công báo số 77 + 78)",
+              "char_len": 427,
+              "raw_chars": 1365,
+              "source_id": "nd-168-2024-ndcp-p2",
+              "norm_chars": 1314,
+              "chunk_index": 1,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6710407733917236,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p2:p008:para:c001",
+            "source_id": "nd-168-2024-ndcp-p2",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf",
+            "page": 8,
+            "text": "h) Điều 15, Điều 17;\n\ni) Điểm b khoản 3; điểm a, điểm c, điểm d, điểm g khoản 5; điểm a, điểm b, điểm c khoản 6 Điều 20;\n\nk) Khoản 2, khoản 3, khoản 4, khoản 5 Điều 23;\n\nl) Điều 24; Điều 25;\n\nm) Khoản 1, khoản 3 Điều 28;\n\nn) Điều 31; Điều 33; Điều 35; Điều 36.\n\n4. Trưởng Công an cấp xã, Trưởng đồn Công an, Trưởng trạm Công an cửa khẩu, khu chế xuất trong phạm vi chức năng, nhiệm vụ được giao có liên quan đến trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ có thẩm quyền xử phạt đối với các hành vi vi phạm quy định tại các điểm, khoản, điều của Nghị định này như sau:\n\na) Điểm đ khoản 1; điểm d, điểm đ khoản 2; điểm b, điểm d, điểm đ, điểm e, điểm g khoản 3 Điều 6;\n\nb) Điểm d, điểm e, điểm g, điểm i khoản 1; điểm a, điểm d, điểm e, điểm g,",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 2 (Công báo số 77 + 78)",
+              "char_len": 761,
+              "raw_chars": 1706,
+              "source_id": "nd-168-2024-ndcp-p2",
+              "norm_chars": 1646,
+              "chunk_index": 1,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6418365836143494,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[nd-168-2024-ndcp-p2:p011:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 11]\n3. Trưởng Công an cấp xã, Trưởng đồn Công an, Trưởng trạm Công an cửa khẩu, khu chế xuất, Tiểu đoàn trưởng Tiểu đoàn Cảnh sát cơ động có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 2.500.000 đồng;\n\nc) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị không vượt quá 5.000.000 đồng;\n\nd) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a, điểm b khoản 3\n\nĐiều 3 của Nghị định này.\n\n4. Trưởng Công an cấp huyện; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát quản lý hành chính về trật tự xã hội; Trưởng phòng Công an cấp tỉnh bao gồm: Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng phòng Cảnh sát giao thông, Trưởng phòng Cảnh sát cơ động, Trung đoàn trưởng Trung đoàn Cảnh sát cơ động có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 15.000.000 đồng;\n\n[nd-168-2024-ndcp-p2:p010:para:c001 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 10]\nđ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.\n\nĐiều 43. Thẩm quyền xử phạt của Công an nhân dân\n\n1. Chiến sĩ Công an nhân dân đang thi hành công vụ có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 500.000 đồng.\n\n2. Thủ trưởng đơn vị Cảnh sát cơ động cấp đại đội, Trưởng trạm, Đội trưởng của người quy định tại khoản 1 Điều này có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 1.500.000 đồng.\n\n[nd-168-2024-ndcp-p2:p008:para:c001 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 8]\nh) Điều 15, Điều 17;\n\ni) Điểm b khoản 3; điểm a, điểm c, điểm d, điểm g khoản 5; điểm a, điểm b, điểm c khoản 6 Điều 20;\n\nk) Khoản 2, khoản 3, khoản 4, khoản 5 Điều 23;\n\nl) Điều 24; Điều 25;\n\nm) Khoản 1, khoản 3 Điều 28;\n\nn) Điều 31; Điều 33; Điều 35; Điều 36.\n\n4. Trưởng Công an cấp xã, Trưởng đồn Công an, Trưởng trạm Công an cửa khẩu, khu chế xuất trong phạm vi chức năng, nhiệm vụ được giao có liên quan đến trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ có thẩm quyền xử phạt đối với các hành vi vi phạm quy định tại các điểm, khoản, điều của Nghị định này như sau:\n\na) Điểm đ khoản 1; điểm d, điểm đ khoản 2; điểm b, điểm d, điểm đ, điểm e, điểm g khoản 3 Điều 6;\n\nb) Điểm d, điểm e, điểm g, điểm i khoản 1; điểm a, điểm d, điểm e, điểm g,",
+        "context_ids": [
+          "nd-168-2024-ndcp-p2:p011:para:c000",
+          "nd-168-2024-ndcp-p2:p010:para:c001",
+          "nd-168-2024-ndcp-p2:p008:para:c001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "final_context": "[nd-168-2024-ndcp-p2:p011:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 11]\n3. Trưởng Công an cấp xã, Trưởng đồn Công an, Trưởng trạm Công an cửa khẩu, khu chế xuất, Tiểu đoàn trưởng Tiểu đoàn Cảnh sát cơ động có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 2.500.000 đồng;\n\nc) Tịch thu tang vật, phương tiện được sử dụng để vi phạm hành chính có giá trị không vượt quá 5.000.000 đồng;\n\nd) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a, điểm b khoản 3\n\nĐiều 3 của Nghị định này.\n\n4. Trưởng Công an cấp huyện; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát giao thông; Trưởng phòng nghiệp vụ thuộc Cục Cảnh sát quản lý hành chính về trật tự xã hội; Trưởng phòng Công an cấp tỉnh bao gồm: Trưởng phòng Cảnh sát quản lý hành chính về trật tự xã hội, Trưởng phòng Cảnh sát giao thông, Trưởng phòng Cảnh sát cơ động, Trung đoàn trưởng Trung đoàn Cảnh sát cơ động có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 15.000.000 đồng;\n\n[nd-168-2024-ndcp-p2:p010:para:c001 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 10]\nđ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.\n\nĐiều 43. Thẩm quyền xử phạt của Công an nhân dân\n\n1. Chiến sĩ Công an nhân dân đang thi hành công vụ có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 500.000 đồng.\n\n2. Thủ trưởng đơn vị Cảnh sát cơ động cấp đại đội, Trưởng trạm, Đội trưởng của người quy định tại khoản 1 Điều này có quyền:\n\na) Phạt cảnh cáo;\n\nb) Phạt tiền đến 1.500.000 đồng.\n\n[nd-168-2024-ndcp-p2:p008:para:c001 | starter/data/nghi_dinh_168_2024_ndcp_phan2.pdf | page 8]\nh) Điều 15, Điều 17;\n\ni) Điểm b khoản 3; điểm a, điểm c, điểm d, điểm g khoản 5; điểm a, điểm b, điểm c khoản 6 Điều 20;\n\nk) Khoản 2, khoản 3, khoản 4, khoản 5 Điều 23;\n\nl) Điều 24; Điều 25;\n\nm) Khoản 1, khoản 3 Điều 28;\n\nn) Điều 31; Điều 33; Điều 35; Điều 36.\n\n4. Trưởng Công an cấp xã, Trưởng đồn Công an, Trưởng trạm Công an cửa khẩu, khu chế xuất trong phạm vi chức năng, nhiệm vụ được giao có liên quan đến trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ có thẩm quyền xử phạt đối với các hành vi vi phạm quy định tại các điểm, khoản, điều của Nghị định này như sau:\n\na) Điểm đ khoản 1; điểm d, điểm đ khoản 2; điểm b, điểm d, điểm đ, điểm e, điểm g khoản 3 Điều 6;\n\nb) Điểm d, điểm e, điểm g, điểm i khoản 1; điểm a, điểm d, điểm e, điểm g,",
+    "final_context_ids": [
+      "nd-168-2024-ndcp-p2:p011:para:c000",
+      "nd-168-2024-ndcp-p2:p010:para:c001",
+      "nd-168-2024-ndcp-p2:p008:para:c001"
+    ],
+    "elapsed_ms": 3050.12,
+    "chat_usage": {
+      "prompt_tokens": 2057,
+      "completion_tokens": 142,
+      "total_tokens": 2199,
+      "cost_usd": 0.00185105,
+      "api_calls": 2
+    },
+    "embed_usage": {
+      "prompt_tokens": 22,
+      "completion_tokens": 0,
+      "total_tokens": 22,
+      "cost_usd": 2.2e-07,
+      "api_calls": 1
+    }
+  },
+  {
+    "query_id": "u_test_01",
+    "question": "Mức phí bảo hiểm bắt buộc trách nhiệm dân sự mỗi năm của chủ xe mô tô, xe gắn máy là bao nhiêu tiền?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức phí bảo hiểm bắt buộc trách nhiệm dân sự xe mô tô xe gắn máy mỗi năm",
+        "filter": null,
+        "results": [
+          {
+            "id": "nd-168-2024-ndcp-p1:p074:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 74,
+            "text": "3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 368,
+              "raw_chars": 2080,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2018,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6212091075653381,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p051:para:c000",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 51,
+            "text": "c) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 745,
+              "raw_chars": 2240,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2170,
+              "chunk_index": 0,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6186811555218019,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p079:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 79,
+            "text": "11. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân, từ 20.000.000 đồng đến 24.000.000 đồng đối với tổ chức là chủ xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Đưa xe cơ giới, xe máy chuyên dùng không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định) hoặc có nhưng đã hết hiệu lực (hạn sử dụng) từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc) tham gia giao thông;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 599,
+              "raw_chars": 2340,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2269,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6020653247833252,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[nd-168-2024-ndcp-p1:p074:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 74]\n3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;\n\n[nd-168-2024-ndcp-p1:p051:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 51]\nc) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;\n\n[nd-168-2024-ndcp-p1:p079:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 79]\n11. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân, từ 20.000.000 đồng đến 24.000.000 đồng đối với tổ chức là chủ xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Đưa xe cơ giới, xe máy chuyên dùng không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định) hoặc có nhưng đã hết hiệu lực (hạn sử dụng) từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc) tham gia giao thông;",
+        "context_ids": [
+          "nd-168-2024-ndcp-p1:p074:para:c002",
+          "nd-168-2024-ndcp-p1:p051:para:c000",
+          "nd-168-2024-ndcp-p1:p079:para:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "mức phí bảo hiểm bắt buộc trách nhiệm dân sự chủ xe mô tô xe gắn máy",
+        "filter": null,
+        "results": [
+          {
+            "id": "nd-168-2024-ndcp-p1:p074:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 74,
+            "text": "3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 368,
+              "raw_chars": 2080,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2018,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6416748379662741,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p051:para:c000",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 51,
+            "text": "c) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 745,
+              "raw_chars": 2240,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2170,
+              "chunk_index": 0,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6406265711410909,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p049:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 49,
+            "text": "a) Người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy kinh doanh vận tải không mang theo chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực;\n\nb) Người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 420,
+              "raw_chars": 2003,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 1929,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6228575335229924,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[nd-168-2024-ndcp-p1:p074:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 74]\n3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;\n\n[nd-168-2024-ndcp-p1:p051:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 51]\nc) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;\n\n[nd-168-2024-ndcp-p1:p079:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 79]\n11. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân, từ 20.000.000 đồng đến 24.000.000 đồng đối với tổ chức là chủ xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Đưa xe cơ giới, xe máy chuyên dùng không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định) hoặc có nhưng đã hết hiệu lực (hạn sử dụng) từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc) tham gia giao thông;",
+        "context_ids": [
+          "nd-168-2024-ndcp-p1:p074:para:c002",
+          "nd-168-2024-ndcp-p1:p051:para:c000",
+          "nd-168-2024-ndcp-p1:p079:para:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "phụ lục mức phí bảo hiểm bắt buộc trách nhiệm dân sự chủ xe mô tô xe gắn máy",
+        "filter": null,
+        "results": [
+          {
+            "id": "nd-168-2024-ndcp-p1:p074:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 74,
+            "text": "3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 368,
+              "raw_chars": 2080,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2018,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6351150709253465,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p049:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 49,
+            "text": "a) Người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy kinh doanh vận tải không mang theo chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực;\n\nb) Người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 420,
+              "raw_chars": 2003,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 1929,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6299878203883386,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p051:para:c000",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 51,
+            "text": "c) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 745,
+              "raw_chars": 2240,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2170,
+              "chunk_index": 0,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6245044321412525,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[nd-168-2024-ndcp-p1:p074:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 74]\n3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;\n\n[nd-168-2024-ndcp-p1:p051:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 51]\nc) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;\n\n[nd-168-2024-ndcp-p1:p079:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 79]\n11. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân, từ 20.000.000 đồng đến 24.000.000 đồng đối với tổ chức là chủ xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Đưa xe cơ giới, xe máy chuyên dùng không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định) hoặc có nhưng đã hết hiệu lực (hạn sử dụng) từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc) tham gia giao thông;",
+        "context_ids": [
+          "nd-168-2024-ndcp-p1:p074:para:c002",
+          "nd-168-2024-ndcp-p1:p051:para:c000",
+          "nd-168-2024-ndcp-p1:p079:para:c002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "phụ lục mức phí bảo hiểm bắt buộc trách nhiệm dân sự chủ xe mô tô xe gắn máy",
+        "filter": null,
+        "results": [
+          {
+            "id": "nd-168-2024-ndcp-p1:p074:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 74,
+            "text": "3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 368,
+              "raw_chars": 2080,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2018,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6351084519890438,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p049:para:c002",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 49,
+            "text": "a) Người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy kinh doanh vận tải không mang theo chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực;\n\nb) Người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 420,
+              "raw_chars": 2003,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 1929,
+              "chunk_index": 2,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.630035023986252,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "nd-168-2024-ndcp-p1:p051:para:c000",
+            "source_id": "nd-168-2024-ndcp-p1",
+            "source": "starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf",
+            "page": 51,
+            "text": "c) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;",
+            "metadata": {
+              "title": "Nghị định 168/2024/NĐ-CP (Xử phạt VPHC về TTATGT đường bộ; trừ điểm, phục hồi điểm GPLX) - Phần 1 (Công báo số 75 + 76)",
+              "char_len": 745,
+              "raw_chars": 2240,
+              "source_id": "nd-168-2024-ndcp-p1",
+              "norm_chars": 2170,
+              "chunk_index": 0,
+              "issued_date": "2024-12-26",
+              "document_type": "nghi_dinh",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "168/2024/NĐ-CP"
+            },
+            "score": 0.6245258860431372,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[nd-168-2024-ndcp-p1:p074:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 74]\n3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;\n\n[nd-168-2024-ndcp-p1:p051:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 51]\nc) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;\n\n[nd-168-2024-ndcp-p1:p079:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 79]\n11. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân, từ 20.000.000 đồng đến 24.000.000 đồng đối với tổ chức là chủ xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Đưa xe cơ giới, xe máy chuyên dùng không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định) hoặc có nhưng đã hết hiệu lực (hạn sử dụng) từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc) tham gia giao thông;",
+        "context_ids": [
+          "nd-168-2024-ndcp-p1:p074:para:c002",
+          "nd-168-2024-ndcp-p1:p051:para:c000",
+          "nd-168-2024-ndcp-p1:p079:para:c002"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "final_context": "[nd-168-2024-ndcp-p1:p074:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 74]\n3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định;\n\n[nd-168-2024-ndcp-p1:p051:para:c000 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 51]\nc) Người điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực.\n\n5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển;\n\n[nd-168-2024-ndcp-p1:p079:para:c002 | starter/data/nghi_dinh_168_2024_ndcp_phan1.pdf | page 79]\n11. Phạt tiền từ 10.000.000 đồng đến 12.000.000 đồng đối với cá nhân, từ 20.000.000 đồng đến 24.000.000 đồng đối với tổ chức là chủ xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe máy chuyên dùng và các loại xe tương tự xe ô tô thực hiện một trong các hành vi vi phạm sau đây:\n\na) Đưa xe cơ giới, xe máy chuyên dùng không có giấy chứng nhận hoặc tem kiểm định an toàn kỹ thuật và bảo vệ môi trường (đối với loại xe có quy định phải kiểm định) hoặc có nhưng đã hết hiệu lực (hạn sử dụng) từ 01 tháng trở lên (kể cả rơ moóc và sơ mi rơ moóc) tham gia giao thông;",
+    "final_context_ids": [
+      "nd-168-2024-ndcp-p1:p074:para:c002",
+      "nd-168-2024-ndcp-p1:p051:para:c000",
+      "nd-168-2024-ndcp-p1:p079:para:c002"
+    ],
+    "elapsed_ms": 7638.82,
+    "chat_usage": {
+      "prompt_tokens": 5879,
+      "completion_tokens": 152,
+      "total_tokens": 6031,
+      "cost_usd": 0.00665355,
+      "api_calls": 5
+    },
+    "embed_usage": {
+      "prompt_tokens": 81,
+      "completion_tokens": 0,
+      "total_tokens": 81,
+      "cost_usd": 8.1e-07,
+      "api_calls": 4
+    }
+  },
+  {
+    "query_id": "u_test_02",
+    "question": "Theo quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ trong bộ tài liệu, chiều rộng và kích thước tiêu chuẩn của vạch kẻ đường là bao nhiêu cm?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy chuẩn kỹ thuật quốc gia báo hiệu đường bộ chiều rộng kích thước tiêu chuẩn vạch kẻ đường cm",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat-36-2024-qh15-p1:p012:para:c001",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 12,
+            "text": "7. Cọc tiêu, tường bảo vệ để hướng dẫn cho người tham gia giao thông đường bộ biết phạm vi an toàn của nền đường và hướng đi của đường.\n\n8. Rào chắn để ngăn không cho người, phương tiện qua lại.\n\n9. Đinh phản quang, tiêu phản quang để thông tin, cảnh báo về phần đường, làn đường.\n\n10. Cột Km, cọc H để báo hiệu cho người tham gia giao thông đường bộ về các thông tin của đường bộ.\n\n11. Thiết bị âm thanh báo hiệu đường bộ để hỗ trợ cảnh báo nguy hiểm cho người tham gia giao thông đường bộ.\n\n12. Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển có ý nghĩa khác nhau, người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển báo hiệu tạm thời.\n\n13. Bộ trưởng Bộ Giao thông vận tải ban hành quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ, trừ hiệu lệnh của người điều khiển giao thông.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 841,
+              "raw_chars": 1751,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 1689,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6642206113272868,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "luat-36-2024-qh15-p1:p012:para:c000",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 12,
+            "text": "tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;\n\nc) Tín hiệu đèn màu đỏ là cấm đi.\n\n5. Báo hiệu của biển báo hiệu đường bộ được quy định như sau:\n\na) Biển báo cấm để biểu thị các điều cấm;\n\nb) Biển báo nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra;\n\nc) Biển hiệu lệnh để báo hiệu lệnh phải thi hành;\n\nd) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết;\n\nđ) Biển phụ để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn.\n\n6. Vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 784,
+              "raw_chars": 1751,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 1689,
+              "chunk_index": 0,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6289584482957827,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "luat-36-2024-qh15-p1:p010:para:c002",
+            "source_id": "luat-36-2024-qh15-p1",
+            "source": "starter/data/luat_36_2024_qh15_phan1.pdf",
+            "page": 10,
+            "text": "3. Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ loại xe ô tô chỉ có một hàng ghế; người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.\n\nĐiều 11. Chấp hành báo hiệu đường bộ\n\n1. Báo hiệu đường bộ bao gồm: hiệu lệnh của người điều khiển giao thông; đèn tín hiệu giao thông; biển báo hiệu đường bộ; vạch kẻ đường và các dấu hiệu khác trên mặt đường; cọc tiêu, tường bảo vệ, rào chắn, đinh phản quang, tiêu phản quang, cột Km, cọc H; thiết bị âm thanh báo hiệu đường bộ.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 1 (Công báo số 977 + 978)",
+              "char_len": 581,
+              "raw_chars": 2090,
+              "source_id": "luat-36-2024-qh15-p1",
+              "norm_chars": 2026,
+              "chunk_index": 2,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6263228281544053,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[luat-36-2024-qh15-p1:p012:para:c001 | starter/data/luat_36_2024_qh15_phan1.pdf | page 12]\n7. Cọc tiêu, tường bảo vệ để hướng dẫn cho người tham gia giao thông đường bộ biết phạm vi an toàn của nền đường và hướng đi của đường.\n\n8. Rào chắn để ngăn không cho người, phương tiện qua lại.\n\n9. Đinh phản quang, tiêu phản quang để thông tin, cảnh báo về phần đường, làn đường.\n\n10. Cột Km, cọc H để báo hiệu cho người tham gia giao thông đường bộ về các thông tin của đường bộ.\n\n11. Thiết bị âm thanh báo hiệu đường bộ để hỗ trợ cảnh báo nguy hiểm cho người tham gia giao thông đường bộ.\n\n12. Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển có ý nghĩa khác nhau, người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển báo hiệu tạm thời.\n\n13. Bộ trưởng Bộ Giao thông vận tải ban hành quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ, trừ hiệu lệnh của người điều khiển giao thông.\n\n[luat-36-2024-qh15-p1:p012:para:c000 | starter/data/luat_36_2024_qh15_phan1.pdf | page 12]\ntiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;\n\nc) Tín hiệu đèn màu đỏ là cấm đi.\n\n5. Báo hiệu của biển báo hiệu đường bộ được quy định như sau:\n\na) Biển báo cấm để biểu thị các điều cấm;\n\nb) Biển báo nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra;\n\nc) Biển hiệu lệnh để báo hiệu lệnh phải thi hành;\n\nd) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết;\n\nđ) Biển phụ để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn.\n\n6. Vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.",
+        "context_ids": [
+          "luat-36-2024-qh15-p1:p012:para:c001",
+          "luat-36-2024-qh15-p1:p012:para:c000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "final_context": "[luat-36-2024-qh15-p1:p012:para:c001 | starter/data/luat_36_2024_qh15_phan1.pdf | page 12]\n7. Cọc tiêu, tường bảo vệ để hướng dẫn cho người tham gia giao thông đường bộ biết phạm vi an toàn của nền đường và hướng đi của đường.\n\n8. Rào chắn để ngăn không cho người, phương tiện qua lại.\n\n9. Đinh phản quang, tiêu phản quang để thông tin, cảnh báo về phần đường, làn đường.\n\n10. Cột Km, cọc H để báo hiệu cho người tham gia giao thông đường bộ về các thông tin của đường bộ.\n\n11. Thiết bị âm thanh báo hiệu đường bộ để hỗ trợ cảnh báo nguy hiểm cho người tham gia giao thông đường bộ.\n\n12. Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển có ý nghĩa khác nhau, người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển báo hiệu tạm thời.\n\n13. Bộ trưởng Bộ Giao thông vận tải ban hành quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ, trừ hiệu lệnh của người điều khiển giao thông.\n\n[luat-36-2024-qh15-p1:p012:para:c000 | starter/data/luat_36_2024_qh15_phan1.pdf | page 12]\ntiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác;\n\nc) Tín hiệu đèn màu đỏ là cấm đi.\n\n5. Báo hiệu của biển báo hiệu đường bộ được quy định như sau:\n\na) Biển báo cấm để biểu thị các điều cấm;\n\nb) Biển báo nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra;\n\nc) Biển hiệu lệnh để báo hiệu lệnh phải thi hành;\n\nd) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết;\n\nđ) Biển phụ để thuyết minh bổ sung cho biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn.\n\n6. Vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.",
+    "final_context_ids": [
+      "luat-36-2024-qh15-p1:p012:para:c001",
+      "luat-36-2024-qh15-p1:p012:para:c000"
+    ],
+    "elapsed_ms": 2358.9,
+    "chat_usage": {
+      "prompt_tokens": 1767,
+      "completion_tokens": 56,
+      "total_tokens": 1823,
+      "cost_usd": 0.00167675,
+      "api_calls": 2
+    },
+    "embed_usage": {
+      "prompt_tokens": 23,
+      "completion_tokens": 0,
+      "total_tokens": 23,
+      "cost_usd": 2.3e-07,
+      "api_calls": 1
+    }
+  },
+  {
+    "query_id": "u_test_03",
+    "question": "Thời hạn giải quyết thủ tục sang tên, đổi biển số xe ô tô tối đa là bao nhiêu ngày làm việc?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "thời hạn giải quyết thủ tục sang tên đổi biển số xe ô tô",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat-36-2024-qh15-p2:p011:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 11,
+            "text": "b) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;\n\nc) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.\n\n4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.\n\nĐiều 37. Đấu giá biển số xe",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 774,
+              "raw_chars": 2206,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2138,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6405449914769856,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "luat-36-2024-qh15-p2:p013:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 13,
+            "text": "b) Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;\n\nc) Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 862,
+              "raw_chars": 2235,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2171,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6373383782707678,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "luat-36-2024-qh15-p2:p012:para:c002",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 12,
+            "text": "d) Trong thời hạn 30 ngày kể từ ngày có thông báo kết quả trúng đấu giá mà chưa được cấp quyết định xác nhận biển số xe trúng đấu giá, nếu người trúng đấu giá chết thì kết quả trúng đấu giá sẽ bị hủy, người thừa kế theo quy định của pháp luật về thừa kế được nhận đủ số tiền trúng đấu giá mà người trúng đấu giá đã nộp;\n\nđ) Trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá, nếu người trúng đấu giá chết nhưng chưa thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì kết quả trúng đấu giá sẽ bị hủy, người thừa kế theo quy định của pháp luật về thừa kế được nhận đủ số tiền trúng đấu giá mà người trúng đấu giá đã nộp.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 670,
+              "raw_chars": 2255,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2189,
+              "chunk_index": 2,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.626315411297865,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[luat-36-2024-qh15-p2:p011:para:c001 | starter/data/luat_36_2024_qh15_phan2.pdf | page 11]\nb) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;\n\nc) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.\n\n4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.\n\nĐiều 37. Đấu giá biển số xe\n\n[luat-36-2024-qh15-p2:p013:para:c001 | starter/data/luat_36_2024_qh15_phan2.pdf | page 13]\nb) Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;\n\nc) Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ",
+        "context_ids": [
+          "luat-36-2024-qh15-p2:p011:para:c001",
+          "luat-36-2024-qh15-p2:p013:para:c001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "thời hạn giải quyết thủ tục sang tên đổi biển số xe ô tô",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat-36-2024-qh15-p2:p011:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 11,
+            "text": "b) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;\n\nc) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.\n\n4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.\n\nĐiều 37. Đấu giá biển số xe",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 774,
+              "raw_chars": 2206,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2138,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6405696487087232,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "luat-36-2024-qh15-p2:p013:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 13,
+            "text": "b) Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;\n\nc) Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 862,
+              "raw_chars": 2235,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2171,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6373583864378451,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "luat-36-2024-qh15-p2:p012:para:c002",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 12,
+            "text": "d) Trong thời hạn 30 ngày kể từ ngày có thông báo kết quả trúng đấu giá mà chưa được cấp quyết định xác nhận biển số xe trúng đấu giá, nếu người trúng đấu giá chết thì kết quả trúng đấu giá sẽ bị hủy, người thừa kế theo quy định của pháp luật về thừa kế được nhận đủ số tiền trúng đấu giá mà người trúng đấu giá đã nộp;\n\nđ) Trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá, nếu người trúng đấu giá chết nhưng chưa thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì kết quả trúng đấu giá sẽ bị hủy, người thừa kế theo quy định của pháp luật về thừa kế được nhận đủ số tiền trúng đấu giá mà người trúng đấu giá đã nộp.",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 670,
+              "raw_chars": 2255,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2189,
+              "chunk_index": 2,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6263531223746026,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[luat-36-2024-qh15-p2:p011:para:c001 | starter/data/luat_36_2024_qh15_phan2.pdf | page 11]\nb) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;\n\nc) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.\n\n4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.\n\nĐiều 37. Đấu giá biển số xe\n\n[luat-36-2024-qh15-p2:p013:para:c001 | starter/data/luat_36_2024_qh15_phan2.pdf | page 13]\nb) Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;\n\nc) Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ",
+        "context_ids": [
+          "luat-36-2024-qh15-p2:p011:para:c001",
+          "luat-36-2024-qh15-p2:p013:para:c001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "thời hạn giải quyết thủ tục sang tên đổi biển số xe ô tô Nghị định 168/2024/NĐ-CP",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat-36-2024-qh15-p2:p011:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 11,
+            "text": "b) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;\n\nc) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.\n\n4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.\n\nĐiều 37. Đấu giá biển số xe",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 774,
+              "raw_chars": 2206,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2138,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6373670913358288,
+            "strategy": "dense_pgvector",
+            "rank": 1
+          },
+          {
+            "id": "luat-36-2024-qh15-p2:p013:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 13,
+            "text": "b) Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;\n\nc) Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 862,
+              "raw_chars": 2235,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 2171,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6240299530038226,
+            "strategy": "dense_pgvector",
+            "rank": 2
+          },
+          {
+            "id": "luat-36-2024-qh15-p2:p061:para:c001",
+            "source_id": "luat-36-2024-qh15-p2",
+            "source": "starter/data/luat_36_2024_qh15_phan2.pdf",
+            "page": 61,
+            "text": "6. Chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường được cấp trước ngày Luật này có hiệu lực thi hành thì có giá trị sử dụng đến hết thời hạn ghi trên giấy chứng nhận đó.\n\n7. Việc đấu giá biển số xe ô tô được thực hiện trước ngày Luật này có hiệu lực thi hành và đến ngày Luật này có hiệu lực thi hành đã được cấp văn bản xác nhận biển số xe ô tô trúng đấu giá thì tiếp tục thực hiện theo Nghị quyết số 73/2022/QH15 của Quốc hội về thí điểm đấu giá biển số xe ô tô; trường hợp chưa được cấp xác nhận biển số xe ô tô trúng đấu giá thì tiếp tục thực hiện theo Nghị quyết số 73/2022/QH15 của Quốc hội về thí điểm đấu giá biển số xe ô tô và quy định tại điểm d khoản 1\n\nĐiều 38 của Luật này./.\n\nLuật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 7 thông qua ngày 27 tháng 6 năm 2024./.\n\nCHỦ TỊCH QUỐC HỘI\n\nTrần Thanh Mẫn",
+            "metadata": {
+              "title": "Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) - Phần 2 (Công báo số 979 + 980)",
+              "char_len": 859,
+              "raw_chars": 1710,
+              "source_id": "luat-36-2024-qh15-p2",
+              "norm_chars": 1643,
+              "chunk_index": 1,
+              "issued_date": "2024-06-27",
+              "document_type": "luat",
+              "effective_date": "2025-01-01",
+              "chunking_method": "para",
+              "document_number": "36/2024/QH15"
+            },
+            "score": 0.6214332210163354,
+            "strategy": "dense_pgvector",
+            "rank": 3
+          }
+        ],
+        "context": "[luat-36-2024-qh15-p2:p011:para:c001 | starter/data/luat_36_2024_qh15_phan2.pdf | page 11]\nb) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;\n\nc) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.\n\n4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.\n\nĐiều 37. Đấu giá biển số xe\n\n[luat-36-2024-qh15-p2:p013:para:c001 | starter/data/luat_36_2024_qh15_phan2.pdf | page 13]\nb) Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;\n\nc) Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ",
+        "context_ids": [
+          "luat-36-2024-qh15-p2:p011:para:c001",
+          "luat-36-2024-qh15-p2:p013:para:c001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "final_context": "[luat-36-2024-qh15-p2:p011:para:c001 | starter/data/luat_36_2024_qh15_phan2.pdf | page 11]\nb) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;\n\nc) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.\n\n4. Bộ trưởng Bộ Công an quy định quy chuẩn kỹ thuật quốc gia về biển số xe; đối với biển số xe thuộc phạm vi quản lý của Bộ Quốc phòng do Bộ trưởng Bộ Quốc phòng quy định quy chuẩn kỹ thuật.\n\nĐiều 37. Đấu giá biển số xe\n\n[luat-36-2024-qh15-p2:p013:para:c001 | starter/data/luat_36_2024_qh15_phan2.pdf | page 13]\nb) Thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá trong thời hạn 12 tháng kể từ ngày được cấp quyết định xác nhận biển số xe trúng đấu giá; trường hợp sự kiện bất khả kháng hoặc trở ngại khách quan thì thời hạn này được kéo dài thêm nhưng tối đa không quá 06 tháng. Sau thời hạn quy định, người trúng đấu giá biển số xe không thực hiện thủ tục đăng ký xe để gắn biển số xe trúng đấu giá thì biển số xe trúng đấu giá được đấu giá lại hoặc chuyển vào hệ thống đăng ký, quản lý xe và người trúng đấu giá không được hoàn trả số tiền trúng đấu giá đã nộp;\n\nc) Không được chuyển nhượng, trao đổi, tặng cho, để thừa kế biển số xe trúng đấu giá, trừ trường hợp quy định tại điểm c khoản 1 Điều này.\n\n3. Chính phủ quy định chi tiết Điều này.\n\nĐiều 39. Cấp, thu hồi chứng nhận đăng ký xe và biển số xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ",
+    "final_context_ids": [
+      "luat-36-2024-qh15-p2:p011:para:c001",
+      "luat-36-2024-qh15-p2:p013:para:c001"
+    ],
+    "elapsed_ms": 7370.67,
+    "chat_usage": {
+      "prompt_tokens": 4136,
+      "completion_tokens": 111,
+      "total_tokens": 4247,
+      "cost_usd": 0.0037003,
+      "api_calls": 4
+    },
+    "embed_usage": {
+      "prompt_tokens": 57,
+      "completion_tokens": 0,
+      "total_tokens": 57,
+      "cost_usd": 5.7e-07,
+      "api_calls": 3
+    }
+  }
+]

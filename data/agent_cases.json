@@ -1,0 +1,317 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Luật Trật tự, an toàn giao thông đường bộ quy định thế nào về việc điều khiển phương tiện mà trong máu hoặc hơi thở có nồng độ cồn?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét trên xe ô tô, quy định không được ngồi cùng hàng ghế với người lái xe có ngoại lệ nào không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Người tham gia giao thông đường bộ phải chấp hành các loại báo hiệu đường bộ theo thứ tự ưu tiên nào từ trên xuống dưới?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Khi dừng, đỗ xe trên đường phố, khoảng cách tối đa cho phép từ bánh xe gần nhất đến lề đường hoặc vỉa hè là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Trên đường cao tốc, nếu xe gặp sự cố kỹ thuật không thể di chuyển vào làn dừng khẩn cấp thì phải đặt biển hoặc đèn cảnh báo cách phía sau xe tối thiểu bao nhiêu mét?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Màu tín hiệu đèn nhấp nháy của xe cứu thương đang làm nhiệm vụ cấp cứu và xe công an đi làm nhiệm vụ khẩn cấp được quy định như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Người điều khiển xe đạp, xe đạp máy được chở tối đa bao nhiêu người trong trường hợp thông thường và khi chở thêm trẻ em dưới 07 tuổi?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Theo phân hạng mới, giấy phép lái xe hạng A1 và hạng A được cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh hoặc công suất động cơ điện như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Người đủ 16 tuổi và người đủ 18 tuổi được phép điều khiển hoặc cấp bằng lái những loại xe nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Thời gian làm việc tối đa của người lái xe ô tô kinh doanh vận tải trong một ngày, một tuần và lái xe liên tục là bao nhiêu giờ?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Người điều khiển xe ô tô không chấp hành hiệu lệnh của đèn tín hiệu giao thông bị phạt tiền từ bao nhiêu đến bao nhiêu đồng?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Người lái xe ô tô có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở bị phạt tiền mức nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Người điều khiển xe mô tô, xe gắn máy vượt đèn đỏ hoặc đi ngược chiều của đường một chiều bị xử phạt tiền trong khung nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm trong thời hạn bao lâu thì được phục hồi đủ 12 điểm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo Nghị định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ, nếu cá nhân thực hiện nhiều hành vi vi phạm bị xử phạt trong cùng một lần thì việc trừ điểm giấy phép lái xe được áp dụng như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "nghi_dinh"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo Nghị định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ, khi đủ thời hạn 12 tháng không bị trừ thêm điểm thì việc phục hồi đủ 12 điểm trong cơ sở dữ liệu được thực hiện ra sao?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "nghi_dinh"
+    }
+  },
+  {
+    "id": "q17",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, luật bắt đầu có hiệu lực thi hành từ ngày nào và khoản nào có hiệu lực muộn hơn?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "q25",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Xe máy leo vỉa hè tránh kẹt xe bị phạt bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q26",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Đang chạy xe máy cầm điện thoại xem map có bị phạt không, phạt nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q27",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Ngã tư có đèn vàng nhấp nháy thì chạy luôn được không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q28",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Chạy xe ban đêm trong phố có đèn đường bật pha được không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q29",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Bằng A1 cũ trước 2025 chạy xe 150cc được không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q30",
+    "split": "dev",
+    "type": "human_tinh_huong",
+    "question": "Ra đường chỉ cần mang VNeID có bằng lái tích hợp được không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "t01",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, trên một chiều đường có vạch kẻ phân làn đường thì xe thô sơ và xe cơ giới phải đi trên làn nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "t02",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Khi vượt xe khác trên đường mỗi chiều chỉ có một làn cho xe cơ giới, quy tắc chung phải vượt bên nào và có ngoại lệ nào được phép vượt bên phải không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "t03",
+    "split": "test",
+    "type": "human_tinh_huong",
+    "question": "Chạy xe trong phố lúc 11 giờ đêm muốn xin vượt xe trước thì có được bóp còi không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "t04",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Luật Trật tự, an toàn giao thông đường bộ, xe ô tô chở hàng chỉ được phép chở người trên thùng xe trong những trường hợp nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "luat"
+    }
+  },
+  {
+    "id": "t05",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "Khi lái xe ô tô đang thế chấp ngân hàng mà không cầm bản gốc giấy đăng ký xe thì cần mang theo giấy tờ gì thay thế?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "t06",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Nghị định 168/2024/NĐ-CP, trung tâm sát hạch lái xe tự ý sử dụng phần mềm sát hạch chưa được chấp thuận hoặc kết nối máy tính phòng thi lý thuyết ra ngoài bị phạt tiền bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "nghi_dinh"
+    }
+  },
+  {
+    "id": "t07",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "Theo Nghị định 168/2024/NĐ-CP, Trưởng Công an cấp xã và Trưởng Công an cấp huyện có thẩm quyền phạt tiền tối đa đến bao nhiêu đồng?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "filter": {
+      "document_type": "nghi_dinh"
+    }
+  },
+  {
+    "id": "u_dev_01",
+    "split": "dev",
+    "question": "Mức thu phí sử dụng đường bộ hàng năm đối với xe ô tô con dưới 10 chỗ không kinh doanh vận tải là bao nhiêu đồng?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Kiểm tra toàn bộ 627 chunks (tìm 'phí sử dụng đường bộ', 'bảo trì đường bộ', 'mức phí'): cả Luật 36/2024/QH15 và NĐ 168/2024/NĐ-CP đều không quy định biểu mức thu phí sử dụng đường bộ."
+  },
+  {
+    "id": "u_dev_02",
+    "split": "dev",
+    "question": "Chu kỳ kiểm định định kỳ lần đầu và định kỳ tiếp theo đối với xe ô tô chở người đến 9 chỗ không kinh doanh vận tải là bao nhiêu tháng?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Kiểm tra toàn bộ 627 chunks (tìm 'chu kỳ kiểm định', 'chu kỳ'): Luật 36/2024 chỉ nêu nguyên tắc và giao Bộ trưởng GTVT quy định chi tiết, không có bảng chu kỳ kiểm định."
+  },
+  {
+    "id": "u_dev_03",
+    "split": "dev",
+    "question": "Lệ phí sát hạch lái xe thực hành trên đường và lệ phí cấp đổi giấy phép lái xe hạng B hiện hành là bao nhiêu tiền?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Kiểm tra toàn bộ 627 chunks (tìm 'phí sát hạch', 'lệ phí', 'cấp đổi'): chỉ có 1 lần nhắc 'lệ phí đăng ký, cấp biển số xe' khi đấu giá biển số; không có mức lệ phí sát hạch hay cấp đổi GPLX."
+  },
+  {
+    "id": "u_test_01",
+    "split": "test",
+    "question": "Mức phí bảo hiểm bắt buộc trách nhiệm dân sự mỗi năm của chủ xe mô tô, xe gắn máy là bao nhiêu tiền?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Kiểm tra toàn bộ 627 chunks (tìm 'mức phí bảo hiểm', 'phí bảo hiểm'): tài liệu chỉ quy định nghĩa vụ mang chứng nhận bảo hiểm và mức phạt nếu thiếu, không quy định mức phí mua bảo hiểm."
+  },
+  {
+    "id": "u_test_02",
+    "split": "test",
+    "question": "Theo quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ trong bộ tài liệu, chiều rộng và kích thước tiêu chuẩn của vạch kẻ đường là bao nhiêu cm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Kiểm tra toàn bộ 627 chunks (tìm 'QCVN', 'vạch kẻ đường'): Luật 36/2024 liệt kê thứ tự ưu tiên báo hiệu nhưng không chứa thông số kỹ thuật kích thước vạch kẻ đường."
+  },
+  {
+    "id": "u_test_03",
+    "split": "test",
+    "question": "Thời hạn giải quyết thủ tục sang tên, đổi biển số xe ô tô tối đa là bao nhiêu ngày làm việc?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Kiểm tra toàn bộ 627 chunks (tìm 'sang tên', 'ngày làm việc', 'thủ tục sang tên'): Luật 36/2024 và NĐ 168/2024 không quy định số ngày làm việc giải quyết thủ tục sang tên xe."
+  }
+]
